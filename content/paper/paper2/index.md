@@ -11,8 +11,10 @@ links:
   icon_pack: fab
   name: Working Paper
   url: https://drive.google.com/file/d/1yOjuQNvNHmrmn1pDc3TWj-r53fdF5Cs5/view?usp=sharing
+- icon: 
+  icon_pack: fab
+  name: Job Market Paper
+  url: 
 title: "Bring Together What Belongs Together. The Case of Divided Cities in Europe"
-subtitle: Job Market Paper
-event: Job Market Paper
 ---
 
