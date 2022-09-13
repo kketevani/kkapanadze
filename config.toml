@@ -130,7 +130,7 @@ enableEmoji = true
   [[menu.header]]
     name = "Teaching"
     title = "Teaching"
-    url = "/about - Copy/"
+    url = "/teaching/"
     weight = 2
   [[menu.header]]
     name = "Main Research"
@@ -150,7 +150,7 @@ enableEmoji = true
     [[menu.header]]
     name = "References"
     title = "References"
-    url = "/about - Copy - Copy/"
+    url = "/reference/"
     weight = 6
     
     
