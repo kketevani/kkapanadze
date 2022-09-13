@@ -10,7 +10,7 @@ links:
 - icon: github
   icon_pack: fab
   name: Working Paper
-  url: https://drive.google.com/file/d/1yOjuQNvNHmrmn1pDc3TWj-r53fdF5Cs5/view?usp=sharing
+  url: 
 - icon: 
   icon_pack: fab
   name: Job Market Paper
