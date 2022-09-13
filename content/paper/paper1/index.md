@@ -6,7 +6,7 @@ links:
 - icon: door-open
   icon_pack: fas
   name: Slides
-  url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3996196
+  url: https://drive.google.com/file/d/1VRiDmroIOWpIUdMF77Jt_rBn7xxxYmWp/view?usp=sharing
 - icon: github
   icon_pack: fab
   name: Working Paper
