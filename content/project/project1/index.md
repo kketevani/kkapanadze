@@ -4,7 +4,7 @@ layout: single
 links:
 - icon: door-open
   icon_pack: fas
-  name: Working Paper
+  name: On Request
   url:
 title: Using Satellite Imagery to Evaluate the Impact of  Free Land Registration in Georgia (with Irakli Barbakadze)
 weight: 3
