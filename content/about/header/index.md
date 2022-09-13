@@ -9,7 +9,7 @@ headline: |
 
 ## [Download CV here](https://drive.google.com/file/d/1XFZwuYW3w7FUktvZbsh5gOeH5PA0YuOy/view?usp=sharing)
 
-⚫ `Education`:
+💠 `Education`:
 
 PhD, Economics and Econometrics, CERGE-EI, Prague - expected 2023
 
@@ -19,7 +19,7 @@ MA, Mathematical Economics, University of Tartu, Tartu - 2016
 
 BA (Hons), Economics, Marmara University, Istanbul - 2014
 
-⚫ `OTHER AFFILIATION`:
+💠 `OTHER AFFILIATION`:
 
 Visiting Researcher, Massachusetts Institute of Technology, (host, Prof. Albert Saiz) - 2019 
 
