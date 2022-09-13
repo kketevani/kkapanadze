@@ -6,7 +6,7 @@ links:
   icon_pack: fas
   name: On Request
   url:
-title: Using Satellite Imagery to Evaluate the Impact of  Free Land Registration in Georgia (with Irakli Barbakadze)
+title: Economic impact of land registration in Georgia (with Irakli Barbakadze)
 weight: 3
 ---
 
