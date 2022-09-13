@@ -11,6 +11,6 @@ links:
   name: app
   url: https://georgianlights.shinyapps.io/light/
 subtitle: ""
-title: Georgian Nightlights
+title: Georgian Nightlights 🇬🇪
 ---
 
