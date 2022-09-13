@@ -11,8 +11,6 @@ links:
   name: app
   url: https://georgianlights.shinyapps.io/light/
 subtitle: ""
-tags:
-- hugo-site
 title: Georgian Nightlights
 ---
 
