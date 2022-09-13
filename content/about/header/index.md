@@ -24,12 +24,12 @@ BA (Hons), Economics, Marmara University, Istanbul - 2014
 Visiting Researcher, Massachusetts Institute of Technology, (host, Prof. Albert Saiz) - 2019 
 
 
- ⚫ `Awards`:
+ 💠 `Awards`:
 
 Young Economist of the Year (2021) - 1st place. Awarded Paper: Checkmate! Losing with Borders, Winning with Centers. The case of European Integration.
 
 
-  ⚫ `Conferences`:
+   💠 `Conferences`:
 
 IAB/ZEW-conference Spatial Dimensions of the Labour Market, at Institute for Employment Research
 (IAB) in Nuremberg (forthcoming, October)
@@ -59,11 +59,11 @@ and Management
 ERSA Summer School on Cities and Regions in the Process of Transformation, University of Katowice,
 Poland
 
- ⚫ `Skills`:
+  💠 `Skills`:
 
  Statistical Packages: R, Stata, Python, QGIS
 
- ⚫ `Languages`:
+  💠 `Languages`:
 
  Georgian (Native); English, Turkish (Advanced); Russian (Intermediate)
 
