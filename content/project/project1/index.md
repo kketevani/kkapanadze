@@ -6,7 +6,7 @@ links:
   icon_pack: fas
   name: On Request
   url:
-title: Economic impact of land registration in Georgia (with Irakli Barbakadze)
+title: Combining Satellite imagery and machine learning to predict economic impact of land registration in Georgia (with Irakli Barbakadze)
 weight: 3
 ---
 
