@@ -13,6 +13,6 @@ links:
 subtitle: ""
 tags:
 - hugo-site
-title: European Nightlights
+title: European Nightlights 🛰️
 ---
 
