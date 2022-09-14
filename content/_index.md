@@ -17,7 +17,7 @@ images:
 - img/kk.png
 show_action_link: false
 show_social_links: true
-subtitle: გამარჯობა - welcome 👧
+subtitle: გამარჯობა - welcome 🤝
 text_align_left: false
 type: home
 run: |
