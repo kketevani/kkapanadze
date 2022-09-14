@@ -133,7 +133,7 @@ enableEmoji = true
     url = "/teaching/"
     weight = 2
   [[menu.header]]
-    name = "Main Research"
+    name = "Research"
     title = "Research"
     url = "/paper/"
     weight = 3
