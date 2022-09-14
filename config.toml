@@ -168,7 +168,7 @@ enableEmoji = true
   [[menu.footer]]
     name = "Contact"
     title = "Contact"
-    url = "/contributors/"
+    url = "/contact/"
     weight = 3
 
 # see https://gohugo.io/about/hugo-and-gdpr/    
