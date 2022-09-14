@@ -15,8 +15,6 @@ links:
   name: Data upon request
   url: 
 subtitle: ""
-tags:
-- hugo-site
 title: European Nightlights 🛰️
 ---
 
