@@ -5,7 +5,7 @@ links:
 - icon: 
   icon_pack: 
   name: with Irakli Barbakadze
-  url:
+  url:  https://sites.google.com/view/iraklibarbakadze
 title: Socio-Economic and Political Consequences of Parliament Rellocation
 weight: 3
 ---
