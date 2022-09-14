@@ -13,7 +13,7 @@ links:
 - icon: 
   icon_pack: 
   name: Data upon request
-  url: [ketevani.kapanadze@cerge-ei.cz]() 
+  url: 
 subtitle: ""
 tags:
 - hugo-site
