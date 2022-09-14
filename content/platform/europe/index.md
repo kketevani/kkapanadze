@@ -13,7 +13,7 @@ links:
 - icon: 
   icon_pack: 
   name: Data upon request
-  url: 
+  url: ketevani.kapanadze@gmail.com
 subtitle: ""
 tags:
 - hugo-site
