@@ -28,8 +28,8 @@ enableEmoji = true
     style = "github"
     
 [params]
-  orgName = "RStudio"
-  orgLocal = "Anywhere"
+  orgName = "Ketevani Kapanadze"
+  orgLocal = ""
   description = "Akkkkkklog theme for Hugo."
   favicon = "/img/icon.ico"
   logo = "/img/kk3.PNG"
