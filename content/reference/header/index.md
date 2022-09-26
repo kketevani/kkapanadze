@@ -6,6 +6,13 @@ headline: |
 ---
 
 <!-- this is a subheadline -->
+
+## [Jan Švejnar](https://www.sipa.columbia.edu/faculty-research/faculty-directory/jan-svejnar)
+
+Professor at Columbia SIPA and Director at the Center on Global Economic Governance, Columbia University
+
+e-mail: js4085@sipa.columbia.edu
+
 ## [Mariola Pytlikova](https://sites.google.com/site/pytlikovaweb/)
 
 Assistant Professor, e-mail: Mariola.Pytlikova@cerge-ei.cz
