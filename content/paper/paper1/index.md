@@ -17,7 +17,7 @@ links:
   url: https://cse.cz/en/page/28th-young-economist-of-the-year-award#:~:text=Jan%20%C5%BDemli%C4%8Dka%20focuses%20on%20solution,details%20about%20an%20economy%20system.
 - icon: 
   icon_pack: fas
-  name: Under-Review
+  name: Revise & Resubmit at the Journal of Economic Geography
   url: https://academic.oup.com/joeg
 
 title: Checkmate! Losing with Borders, Winning with Centers. The Case of European Integration
