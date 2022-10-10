@@ -32,13 +32,13 @@ Young Economist of the Year (2021) - 1st place. Awarded Paper: Checkmate! Losing
    💠 `Conferences`:
 
 IAB/ZEW-conference Spatial Dimensions of the Labour Market, at Institute for Employment Research
-(IAB) in Nuremberg (forthcoming, October)
+(IAB) in Nuremberg 
 
 30th Anniversary of Maastricht Treaty; the Past, Present, and Future of European Integration. at
-Studio Europa Maastricht and Maastricht University (forthcoming, September)
+Studio Europa Maastricht and Maastricht University 
 
 37th National Conference of Labour Economics, University of Salerno, Special theme on Labour market
-in the aftermath of the COVID-19 crisis (forthcoming, September)
+in the aftermath of the COVID-19 crisis 
 
 12th ifo Dresden Workshop on Regional Economics, at ifo Institute - Leibniz Institute for Economic
 Research at the University of Munich Dresden Branch
@@ -61,7 +61,7 @@ Poland
 
   💠 `Skills`:
 
- Statistical Packages: R, Stata, Python, QGIS
+ Statistical Packages: R, Stata, Python/Scrapy, QGIS
 
   💠 `Languages`:
 
