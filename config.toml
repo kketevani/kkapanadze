@@ -79,6 +79,11 @@ enableEmoji = true
   # Configuration of math rendering
   [params.math]
     renderer = "katex" # one of "mathjax" / "katex" 
+    
+      [[params.social]]
+      icon      = "mail" 
+      icon_pack = "fab"
+      url       = "https://twitter.com/ketevanikapana1"
 
  [[params.social]]
      icon      = "github" 
