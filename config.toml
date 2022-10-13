@@ -82,7 +82,7 @@ enableEmoji = true
     
       [[params.social]]
       icon      = "mail" 
-      icon_pack = "fab"
+      icon_pack = "ai"
       url       = "https://twitter.com/ketevanikapana1"
 
  [[params.social]]
