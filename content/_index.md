@@ -13,7 +13,8 @@ image_left: true
 show_action_link: true
 show_social_links: true
 
-description: "I am Ketevani Kapanadze, a Ph.D. candidate at CERGE-EI, Prague. I am participating in the 2022–2023 academic job market. My research interests lie in economic geography, urban & regional economics, and European integration. In 2019, I was a visiting researcher at the Real Estate department, at the Massachusetts Institute of Technology. In 2021, I became the young economist of the year - the prize by the Czech Economic Society. The award winning paper is under R&R in the Journal of Economic Geography. 
+description: "I am Ketevani Kapanadze, a Ph.D. candidate at CERGE-EI, Prague. I am participating in the 2022–2023 academic job market. My research interests lie in economic geography, urban & regional economics, and European integration. 
+<br><br> In 2019, I was a visiting researcher at the Real Estate department, at the Massachusetts Institute of Technology. In 2021, I became the young economist of the year - the prize by the Czech Economic Society. The award winning paper is under R&R in the Journal of Economic Geography. 
 <br><br> 👩‍💻 I enjoy working with large datasets and employ modern techniques to crawl data and create databases from open sources. I also work with remotely sensed images and use unconventional data sources for economic analysis - daytime & nighttime satellite images."
 text_align_left: true
 images:
