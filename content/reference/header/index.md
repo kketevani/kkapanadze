@@ -15,7 +15,7 @@ e-mail: js4085@sipa.columbia.edu
 
 ## [Mariola Pytlikova](https://sites.google.com/site/pytlikovaweb/)
 
-Assistant Professor, CERGE-EI (tenure track, under US permanent charter), VSB-TU, CReAM, IZA, CCP and CELSI
+Assistant Professor, CERGE-EI, VSB-TU, CReAM, IZA, CCP and CELSI
 
 e-mail: Mariola.Pytlikova@cerge-ei.cz
 
@@ -23,7 +23,7 @@ e-mail: Mariola.Pytlikova@cerge-ei.cz
 
 ## [Christian Ochsner](https://sites.google.com/site/chrochsner/)
 
-Assistant Professor, CERGE-EI (tenure track, under US permanent charter), Research Associate at SIAW - University of
+Assistant Professor, CERGE-EI, Research Associate at SIAW - University of
 St. Gallen
 
 e-mail: christian.ochsner@cerge-ei.cz
