@@ -81,7 +81,7 @@ enableEmoji = true
     renderer = "katex" # one of "mathjax" / "katex" 
     
       [[params.social]]
-      icon      = "mail" 
+      icon      = "gmail" 
       icon_pack = "ai"
       url       = "https://twitter.com/ketevanikapana1"
 
