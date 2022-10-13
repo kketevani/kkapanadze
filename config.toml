@@ -80,10 +80,10 @@ enableEmoji = true
   [params.math]
     renderer = "katex" # one of "mathjax" / "katex" 
     
-      [[params.social]]
-      icon      = "envelope" 
-      icon_pack = "fab"
-      url       = "https://twitter.com/ketevanikapana1"
+       [[params.social]]
+        url = "mailto:kkapanad@gmail.com"  
+        icon = "paper-plane" 
+        icon_pack = "fas"
 
  [[params.social]]
      icon      = "github" 
