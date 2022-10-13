@@ -85,14 +85,14 @@ enableEmoji = true
   # Icon pack "fab" includes brand icons, see: https://fontawesome.com/icons?d=gallery&s=brands&m=free
   # Icon pack "fas" includes solid icons, see: https://fontawesome.com/icons?d=gallery&s=solid&m=free
   # Icon pack "far" includes regular icons, see: https://fontawesome.com/icons?d=gallery&s=regular&m=free
-#  [[params.social]]
+ [[params.social]]
     #  icon      = "github" # icon name without the 'fa-'
      # icon_pack = "fab"
-    #  url       = "https://github.com/apreshill/apero"
-  #[[params.social]]
-     # icon      = "facebook-square" # icon name without the 'fa-'
-     # icon_pack = "fab"
-    #  url       = "https://www.facebook.com/hashtag/ap%C3%A9ro"
+    #  url       = "https://github.com/kketevani"
+  [[params.social]]
+     # icon      = "orcid" # icon name without the 'fa-'
+     # icon_pack = "ai"
+    #  url       = "https://orcid.org/0000-0001-6952-4046"
   [[params.social]]
       icon      = "linkedin" # icon name without the 'fa-'
       icon_pack = "fab"
@@ -106,10 +106,7 @@ enableEmoji = true
  #     icon      = "impactstory" # icon name without the 'fa-'
   #    icon_pack = "ai"
    #   url       = "https://impactstory.org/u/0000-0002-8082-1890"
-  #[[params.social]]
-   #   icon      = "orcid" # icon name without the 'fa-'
-    #  icon_pack = "ai"
-     # url       = "http://orcid.org/0000-0002-8082-1890"
+  
   #[[params.social]]
    #   icon      = "rss" # icon name without the 'fa-'
     #  icon_pack = "fas"
