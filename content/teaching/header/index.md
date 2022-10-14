@@ -13,8 +13,6 @@ Visiting Lecturer at Masaryk University, Macroeconomics
 
 Visiting Lecturer at Tbilisi State University, Microeconomics (planned)
 
-Visiting Lecturer at Tbilisi State University, Macroeconomics (planned)
-
  ⚪ `MA level`:
 
 Visiting Lecturer at Masaryk University, Econometrics
