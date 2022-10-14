@@ -7,7 +7,7 @@ headline: |
 
 <!-- this is a subheadline -->
 
-## [Download CV here](https://drive.google.com/file/d/1XFZwuYW3w7FUktvZbsh5gOeH5PA0YuOy/view?usp=sharing)
+## [Download CV here](https://drive.google.com/drive/search?q=kapanadze_CV)
 
 💠 `Education`:
 
