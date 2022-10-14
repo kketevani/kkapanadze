@@ -32,7 +32,7 @@ enableEmoji = true
   orgLocal = ""
   description = "Akkkkkklog theme for Hugo."
   favicon = "/img/icon.ico"
-  logo = "/img/home.jpg"
+  logo = "/img/ooo.png"
   mainSections = ["about", "teach", "project", "platform"]
   navallcaps = true
   # show/hide social icons in site header & footer
