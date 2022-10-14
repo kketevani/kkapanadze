@@ -21,7 +21,7 @@ BA (Hons), Economics, Marmara University, Istanbul - 2014
 
 💠 `OTHER AFFILIATION`:
 
-Visiting Researcher, Massachusetts Institute of Technology, (host, Prof. Albert Saiz) - 2019 
+Visiting Researcher, Massachusetts Institute of Technology, (host, Prof. Albert Saiz) - 2020 
 
 
  💠 `Awards`:
