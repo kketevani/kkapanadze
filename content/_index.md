@@ -17,7 +17,7 @@ description: "I am Ketevani Kapanadze, a Ph.D. candidate at CERGE-EI, Prague. I 
 
 <br><br> 👩‍💻 I enjoy working with large datasets and employ modern techniques to crawl data and create databases from open sources. I also work with remotely sensed images and use unconventional data sources for economic analysis - daytime & nighttime satellite images.
 
-<br><br> 📰 You can find my [Job Market Paper here](https://drive.google.com/file/d/1YbYNiyKaRXP1bTp3boCB83lLV-rjjwgj/view?usp=sharing). This paper explores a unique quasi-natural experiment of removing borders between European cities that were once united in the past and then divided due to major conflicts. I show that local economic activities concentrated close to the early 20th century prewar centers after borderless Europe - Schengen zone was created. Besides, I find that consumption sector and historical memory plays a salient role in the agglomeration of economic activities - such channels can _bring together what belongs together_"
+<br><br> 📰 You can find my [Job Market Paper here](https://drive.google.com/file/d/1YbYNiyKaRXP1bTp3boCB83lLV-rjjwgj/view?usp=sharing). This paper explores a unique quasi-natural experiment of removing borders between European cities that were once united in the past and then divided due to major conflicts. I show that local economic activities concentrated close to the early 20th century prewar centers after borderless Europe - Schengen zone was created. Besides, I find that consumption sector and historical memory plays a salient role in defining agglomeration sources - such channels can _bring together what belongs together._"
 
 text_align_left: true
 images:
