@@ -10,7 +10,7 @@ links:
 - icon: github
   icon_pack: fab
   name: Working Paper
-  url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3996196
+  url: https://drive.google.com/file/d/1clfTVJZ4ETX-mJCT7LZaJz2TztiIhL65/view?usp=sharing
 - icon: 
   icon_pack: fas
   name: Award winning paper
