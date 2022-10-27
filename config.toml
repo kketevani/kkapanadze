@@ -126,7 +126,7 @@ enableEmoji = true
     url = "/paper/"
     weight = 3
   [[menu.header]]
-    name = "Work in Progress"
+    name = "Projects"
     title = "Projects"
     url = "/project/"
     weight = 4
