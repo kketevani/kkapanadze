@@ -7,7 +7,7 @@ headline: |
 
 <!-- this is a subheadline -->
 
-## [Download CV here](https://drive.google.com/file/d/1uZJwpbs6Vcc9LFT4ObJnWE1gORYCNfmK/view?usp=sharing)
+## [Download CV here](https://drive.google.com/file/d/1KScWWAzxIJXGrwSZ7Y2_9TflX32e_Mpj/view?usp=sharing)
 
 💠 `Education`:
 
