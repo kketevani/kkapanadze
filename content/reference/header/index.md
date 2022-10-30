@@ -15,7 +15,7 @@ e-mail: js4085@sipa.columbia.edu
 
 ## [Mariola Pytlikova](https://sites.google.com/site/pytlikovaweb/)
 
-Assistant Professor, CERGE-EI, VSB-TU, CReAM, IZA, CCP and CELSI
+Assistant Professor, CERGE-EI
 
 e-mail: Mariola.Pytlikova@cerge-ei.cz
 
