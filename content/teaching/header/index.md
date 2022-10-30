@@ -9,13 +9,13 @@ headline: |
 
  ⚪ `BA level`:
 
-Visiting Lecturer at Masaryk University, Macroeconomics
+Visiting Lecturer at Masaryk University Brno, Macroeconomics
 
 Visiting Lecturer at Tbilisi State University, Microeconomics (planned)
 
  ⚪ `MA level`:
 
-Visiting Lecturer at Masaryk University, Econometrics
+Visiting Lecturer at Masaryk University Brno, Econometrics
 
 Teaching Assistant at University of Tartu, Microeconometrics
 
