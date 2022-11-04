@@ -11,7 +11,7 @@ headline: |
 
 Visiting Lecturer at Masaryk University Brno, Macroeconomics
 
-Visiting Lecturer at Tbilisi State University, Microeconomics (scheduled in Spring 2023)
+Visiting Lecturer at Ilia State University Tbilisi, Microeconomics (scheduled in Spring 2023)
 
  ⚪ `MA level`:
 
@@ -22,7 +22,7 @@ Teaching Assistant at University of Tartu, Microeconometrics
 
 ⚪ `PhD level`:
 
-Teaching Assistant at CERGE-EI, Quantitative Economic History
+Teaching Assistant at CERGE-EI, Prague, Quantitative Economic History
 
 
 
