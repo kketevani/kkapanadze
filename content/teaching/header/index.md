@@ -11,7 +11,7 @@ headline: |
 
 Visiting Lecturer at Masaryk University Brno, Macroeconomics
 
-Visiting Lecturer at Tbilisi State University, Microeconomics (planned)
+Visiting Lecturer at Tbilisi State University, Microeconomics (scheduled in Spring 2023)
 
  ⚪ `MA level`:
 
