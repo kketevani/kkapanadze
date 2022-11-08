@@ -12,5 +12,5 @@ links:
   icon_pack: fab
   name: Working Paper
   url: 
-title: Bring Together What Belongs Together: The Case of Divided Cities in Europe
+title: Bring Together What Belongs Together. The Case of Divided Cities in Europe
 ---
