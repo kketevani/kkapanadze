@@ -14,4 +14,3 @@ links:
   url: https://drive.google.com/file/d/1Q7EJAZSThgoVWKASzJWu2is69OKvULgA/view?usp=sharing
 title: "Bring Together What Belongs Together: The Case of Divided Cities in Europe"
 ---
-
