@@ -17,7 +17,7 @@ description: "I am Ketevani Kapanadze, a Ph.D. candidate at CERGE-EI, Prague. I 
 
 <br><br> I enjoy working with large datasets and employ modern techniques to crawl data and create databases from open sources. I also work with remotely sensed images and use unconventional data sources for economic analysis - daytime & nighttime satellite images.
 
-<br><br> 📰 You can find my [Job Market Paper here](https://drive.google.com/file/d/1Q7EJAZSThgoVWKASzJWu2is69OKvULgA/view?usp=sharing). <br>  This paper explores a unique quasi-natural experiment of opening borders within cities that were historically a single urban entity and were divided due to border shifts following major historical conflicts in Europe. After inter-city borders were opened, I find that local economic activities became more concentrated close to the pre-division city centers. Besides, I find that the consumption sector and language & cultural similiarities play a salient role in defining agglomeration forces - such channels can _bring together what historically belongs together._
+<br><br> 📰 You can find my [Job Market Paper here](https://drive.google.com/file/d/1Q7EJAZSThgoVWKASzJWu2is69OKvULgA/view?usp=sharing). 
 <br><br> ✍️ see [Research Statement]()"
 
 text_align_left: true
