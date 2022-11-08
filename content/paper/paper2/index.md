@@ -14,4 +14,3 @@ links:
   url: 
 title: Europe, we have a problem! The Economic Cost of Border Controls during COVID-19
 ---
-
