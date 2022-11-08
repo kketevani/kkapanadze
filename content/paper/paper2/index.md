@@ -16,7 +16,7 @@ start operating closer to historical city centers than are firms in the producti
 by local market potentials. Second, I show that cities in which cultural and language differences are not
 barriers to cross-border cooperation are more influenced by the free movement of people than cities where
 these barriers still exist. Hence, spatial agglomerations near pre-division city centers are more apparent in
-almost "borderless" cities.
+almost borderless cities.
 layout: single
 links:
 - icon: door-open
