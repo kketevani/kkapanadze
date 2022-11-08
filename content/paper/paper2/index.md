@@ -12,6 +12,6 @@ links:
   icon_pack: fab
   name: Working Paper
   url: 
-title: Bring Together What Belongs Together: The Case of Divided Cities in Europe
+title: Europe, we have a problem! The Economic Cost of Border Controls during COVID-19
 ---
 
