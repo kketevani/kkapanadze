@@ -18,7 +18,7 @@ description: "I am Ketevani Kapanadze, a Ph.D. candidate at CERGE-EI, Prague. I 
 <br><br> I enjoy working with large datasets and employ modern techniques to crawl data and create databases from open sources. I also work with remotely sensed images and use unconventional data sources for economic analysis - daytime & nighttime satellite images.
 
 <br><br> 📰 You can find my [Job Market Paper here](https://drive.google.com/file/d/1Q7EJAZSThgoVWKASzJWu2is69OKvULgA/view?usp=sharing). 
-<br><br> ✍️ see [Research Statement]()"
+<br><br> ✍️ see [Research Statement](https://drive.google.com/file/d/1JYxa-tAb-BhkMnn9uD1HIqOugZW5hYjT/view?usp=sharing)"
 
 text_align_left: true
 images:
