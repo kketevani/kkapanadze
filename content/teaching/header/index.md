@@ -11,7 +11,7 @@ headline: |
 
 Visiting Lecturer at Masaryk University Brno, Macroeconomics
 
-Visiting Lecturer at International School of Economics in Tbilisi (ISET), Econometrics
+Visiting Lecturer at International School of Economics (ISET), Econometrics
 
  ⚪ `MA level`:
 
