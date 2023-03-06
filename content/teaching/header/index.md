@@ -12,7 +12,7 @@ headline: |
 Visiting Lecturer at Masaryk University Brno, Macroeconomics
 
 Visiting Lecturer at International School of Economics (ISET), Econometrics
-  url: https://drive.google.com/file/d/1PKFjGVX8Aa4aCzqrPBEhHzoE2nbmityY/view?usp=sharing
+  url: https://drive.google.com/file/d/1XhLVhVhbaJSvCFT04IJYM8Qng9Vd_WBi/view?usp=share_link
   url: https://drive.google.com/file/d/1rFaLd0DMCTspoX996CYL1ll8oSODEHoo/view?usp=sharing
 
  ⚪ `MA level`:
