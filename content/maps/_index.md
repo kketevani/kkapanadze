@@ -5,7 +5,7 @@ description: |
   
 show_header: true
 sidebar_left: false
-text_link_url: /about/
+text_link_url: /other/
 title: About
 images:
 - img/kk.png
