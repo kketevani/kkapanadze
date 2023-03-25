@@ -16,7 +16,7 @@
 
 ## [Estonia](https://drive.google.com/file/d/1n-8nyIqYQM9uvTu5x4MkuYAvwcyRqqCP/view?usp=share_link)
 
-_note_: zoom in 🙂
+_note_: don't forget to zoom in 🙂
 
 
 
