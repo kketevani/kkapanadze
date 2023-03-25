@@ -7,6 +7,8 @@ show_header: true
 sidebar_left: false
 text_link_url: /about/
 title: About
+images:
+- img/kk.png
 ---
 
 ** index doesn't contain a body, just front matter above.
