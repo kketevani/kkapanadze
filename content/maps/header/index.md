@@ -1,7 +1,7 @@
 
 `I have created 3D maps of places where I have lived for more than a year`.
  
-_FYI: Don't forget to zoom in (click on country names) and wait a while; rendering may take sometime. So be patient! Have a drink of water_ 🙂
+_FYI: Don't forget to zoom in (after clicking on country names) and wait a while; rendering may take sometime. So be patient! Have a drink of water_ 🙂
 
 
 ## [Turkiye](https://drive.google.com/file/d/1UwEkX_xBbhT9jh0e52_7-IykFOHD3THP/view?usp=share_link)
