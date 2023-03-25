@@ -140,6 +140,11 @@ enableEmoji = true
     title = "References"
     url = "/reference/"
     weight = 6
+     [[menu.header]]
+    name = "Maps"
+    title = "Maps"
+    url = "/maps/"
+    weight = 7
     
     
   # Configure footer  
