@@ -8,7 +8,7 @@ links:
 - 
   name: 
   url: 
-action_link: /about
+action_link: /maps
 action_type: text
 image_left: true
 show_action_link: true
