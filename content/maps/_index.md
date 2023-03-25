@@ -7,7 +7,7 @@ cascade:
   sidebar:
     show_sidebar_adunit: false
     text_link_label: View recent talks
-    text_link_url: /project/
+    text_link_url: /maps/
 description: |
   
 show_author_byline: false
