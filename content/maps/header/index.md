@@ -6,7 +6,7 @@
 ---
 
 <!-- this is a subheadline -->
- `I have created 3D maps of places where I have lived`:
+ `I have created 3D maps of places where I have lived`.
  
  _note_: don't forget to zoom in 🙂
  
