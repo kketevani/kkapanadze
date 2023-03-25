@@ -1,18 +1,4 @@
 
----
-links:
-- 
-  name: 
-  url: 
-  links:
-- 
-  name: 
-  url: 
-action_link: /maps
-action_type: text
-image_left: true
-show_action_link: true
-show_social_links: true
 
 `I have created 3D maps of places where I have lived for more than a year`.
  
@@ -26,14 +12,7 @@ _FYI: Don't forget to zoom in and wait a while; rendering may take sometime. So 
 
 ## [Estonia](https://drive.google.com/file/d/1n-8nyIqYQM9uvTu5x4MkuYAvwcyRqqCP/view?usp=share_link)
 
-text_align_left: true
-show_action_link: true
-show_social_links: true
 
----
-
-** index doesn't contain a body, just front matter above.
-See index.html in the layouts folder **
 
 
 
