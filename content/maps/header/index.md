@@ -1,4 +1,5 @@
 
+---
 
 `I have created 3D maps of places where I have lived for more than a year`.
  
@@ -11,3 +12,7 @@ _FYI: Don't forget to zoom in and wait a while; rendering may take sometime. So 
 ## [Czechia](https://drive.google.com/file/d/1dI8CC84kWZQ01BmDl49VLhjet_2NP8eG/view?usp=share_link)
 
 ## [Estonia](https://drive.google.com/file/d/1n-8nyIqYQM9uvTu5x4MkuYAvwcyRqqCP/view?usp=share_link)
+
+layout: single
+
+---
