@@ -8,7 +8,7 @@
 <!-- this is a subheadline -->
  `I have created 3D maps of places where I have lived`.
  
- _note_: Don't forget to zoom in and wait a while; rendering may take 5sec 🙂
+_ note: Don't forget to zoom in and wait a while; rendering may take sometime. So be patient! Have a drink of water or something. _ 🙂
  
 ## [Georgia](https://drive.google.com/file/d/1HqhU_IM-ufU3EicYM9rO5oQtCC0u1PXy/view?usp=share_link)
 
