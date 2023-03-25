@@ -1,5 +1,3 @@
-
-
 ---
 date: "2022-01-01T14:15:59-06:00"
 date_end: "2023-01-01T14:45:59-06:00"
@@ -13,4 +11,3 @@ links:
 title: Socio-Economic and Political Consequences of the Relocating Parliament
 weight: 3
 ---
-
