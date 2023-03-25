@@ -6,7 +6,8 @@
 ---
 
 <!-- this is a subheadline -->
- `I have created 3D maps of places where I have lived`: 
+ `I have created 3D maps of places where I have lived`.
+ _note_: don't forget to zoom in 🙂
  
 ## [Georgia](https://drive.google.com/file/d/1HqhU_IM-ufU3EicYM9rO5oQtCC0u1PXy/view?usp=share_link)
 
@@ -16,7 +17,7 @@
 
 ## [Estonia](https://drive.google.com/file/d/1n-8nyIqYQM9uvTu5x4MkuYAvwcyRqqCP/view?usp=share_link)
 
-_note_: don't forget to zoom in 🙂
+
 
 
 
