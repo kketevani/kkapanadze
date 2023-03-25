@@ -32,7 +32,6 @@ images:
 show_action_link: true
 show_social_links: true
 
-
 ---
 
 ** index doesn't contain a body, just front matter above.
