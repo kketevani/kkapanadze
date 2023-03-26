@@ -16,5 +16,5 @@ _FYI: Don't forget to zoom in (after clicking on country names) and wait a while
  ## [Massachusetts](https://drive.google.com/file/d/1b86zLQ-uUiKjwEKvFC_HRBSIYLVdrY18/view?usp=sharing)
 <img width="859" alt="Screenshot 2023-03-26 at 12 04 37" src="https://user-images.githubusercontent.com/56413302/227763298-2cca18ef-fc25-4d16-8491-e830c41e6c8e.png">
 
-## [Georgia (country 🙂)](https://drive.google.com/file/d/1HqhU_IM-ufU3EicYM9rO5oQtCC0u1PXy/view?usp=share_link)
+## [Georgia](https://drive.google.com/file/d/1HqhU_IM-ufU3EicYM9rO5oQtCC0u1PXy/view?usp=share_link)
  <img width="873" alt="3" src="https://user-images.githubusercontent.com/56413302/227745481-5eeccb5e-1c4e-4be5-a69b-e094d77c1be2.png">
