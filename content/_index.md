@@ -27,7 +27,6 @@ show_action_link: true
 show_social_links: true
 
 subtitle: გამარჯობა - welcome 🤝
-
 Ketevani Kapanadze
 text_align_left: true
 type: home
