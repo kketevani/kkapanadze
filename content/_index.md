@@ -15,8 +15,7 @@ show_social_links: true
 
 description: "I am Ketevani Kapanadze, a Ph.D. candidate at CERGE-EI, Prague. My current research interests lie at the intersection of economic geography, urban & regional economics and European integration. In 2019-2020, 
 
-<br><br> I enjoy working with large datasets and employ modern techniques to crawl data and create databases from open sources. I also work with remotely sensed images and use unconventional data sources for economic analysis - daytime & nighttime satellite images.
-
+<br><br> I enjoy working with large datasets and employ modern techniques to crawl data and create databases from open sources. I also work with remotely sensed images and use unconventional data sources for economic analysis - daytime & nighttime satellite images."
 
 text_align_left: true
 images:
