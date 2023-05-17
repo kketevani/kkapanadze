@@ -7,7 +7,19 @@ headline: |
 
 <!-- this is a subheadline -->
 
-## [Download CV here](https://drive.google.com/file/d/1LvecnST8StcZXFx7Ctxk6B8B_--ZS1B6/view?usp=sharing)
+## [Download CV here](https://drive.google.com/file/d/1AZxpt1opu6rcEinXOmcEO__BIS8yDC-r/view?usp=sharing)
+
+💠 `CURRENT POSITION`:
+
+Charles University, Faculty of Law, Economics Department 
+Assistant Professor (non-tenure)
+Postdoctoral researcher on the project of EqualStrength, led by Josef Montag
+
+CERGE-EI Foundation Teaching Fellow (NY, USA), 2020 - present
+
+National Institute for Research on the Socioeconomic 
+Impacts of Disease and Systemic Risks (SYRI)
+Team member, 2022 - present
 
 💠 `Education`:
 
