@@ -13,7 +13,7 @@ image_left: true
 show_action_link: true
 show_social_links: true
 
-description: "I am Ketevani Kapanadze, a Ph.D. candidate at CERGE-EI, Prague. I have recently joined the Faculty of Law, Economics Deparment of Charles University as an Assistant professor (non-tenure) - Postdoctoral researcher on the project of [EqualStrength](https://equalstrength.eu), led by Josef Montag.  
+description: "I am Ketevani Kapanadze, a Ph.D. candidate at CERGE-EI. I have recently joined the Faculty of Law, Economics Deparment of Charles University as an Assistant professor (non-tenure) - Postdoctoral researcher on the project of [EqualStrength](https://equalstrength.eu), led by Josef Montag.  
 <br> I am CERGE-EI Foundation Teaching Fellow (NY, USA). 
 <br> I am a team member of the National Institute for Research on the Socioeconomic Impacts of Disease and Systemic Risks (SYRI).
 
