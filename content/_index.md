@@ -26,7 +26,8 @@ images:
 show_action_link: true
 show_social_links: true
 
-subtitle: გამარჯობა - welcome 🤝 Ketevani Kapanadze
+subtitle: გამარჯობა - welcome 🤝 
+subtitle: Ketevani Kapanadze
 text_align_left: true
 type: home
 run: |
