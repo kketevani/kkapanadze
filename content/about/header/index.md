@@ -12,7 +12,7 @@ headline: |
 💠 `CURRENT POSITION`:
 
 Charles University, Faculty of Law, Economics Department, 
-Assistant Professor (non-tenure) - Postdoctoral researcher on the project of EqualStrength, led by Josef Montag
+Assistant Professor (non-tenure) - Postdoctoral researcher on the project of ## [EqualStrength](https://equalstrength.eu), led by Josef Montag
 
 CERGE-EI Foundation Teaching Fellow (NY, USA), 2020 - present
 
