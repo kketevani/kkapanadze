@@ -17,7 +17,7 @@ description: "I am Ketevani Kapanadze, a Ph.D. candidate at CERGE-EI, Prague. I 
 <br> I am CERGE-EI Foundation Teaching Fellow (NY, USA). 
 <br> I am a team member of the National Institute for Research on the Socioeconomic Impacts of Disease and Systemic Risks (SYRI).
 
-<br> My current research interests lie at the intersection of economic geography, urban & regional economics and European integration.  I enjoy working with large datasets and employ modern techniques to crawl data and create databases from open sources. I also work with remotely sensed images and use unconventional data sources for economic analysis - daytime & nighttime satellite images."
+<br><br> My current research interests lie at the intersection of economic geography, urban & regional economics and European integration.  I enjoy working with large datasets and employ modern techniques to crawl data and create databases from open sources. I also work with remotely sensed images and use unconventional data sources for economic analysis - daytime & nighttime satellite images."
 
 text_align_left: true
 images:
