@@ -11,7 +11,7 @@ links:
 - icon: github
   icon_pack: fab
   name: Working Paper
-  url: https://drive.google.com/file/d/17HqvRizoZ9AZ1rPQC02ZrFuzJDzW_1mA/view?usp=sharing
+  url: https://drive.google.com/file/d/1yrsMP1V4yxkWxdMRD2XV2VZaWORlsRl7/view?usp=sharing
 title: Europe, we have a problem! The Economic Cost of Border Controls during COVID-19
 ---
 
