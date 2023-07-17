@@ -11,6 +11,6 @@ links:
 - icon: github
   icon_pack: fab
   name: Job Market Paper
-  url: https://drive.google.com/file/d/1Q7EJAZSThgoVWKASzJWu2is69OKvULgA/view?usp=sharing
+  url: https://drive.google.com/file/d/1xuG2QPzIS2GJNcmQYR-XjBjEWgFmaHjc/view
 title: Bring Together What Belongs Together. The Case of Divided Cities in Europe
 ---
