@@ -7,7 +7,7 @@ headline: |
 
 <!-- this is a subheadline -->
 
-## [Download CV here](https://drive.google.com/file/d/1AZxpt1opu6rcEinXOmcEO__BIS8yDC-r/view?usp=sharing)
+## [Download CV here](https://drive.google.com/file/d/1cs7PTMVmXKhdZJbdptogx0bZ5f3XYoMm/view?usp=sharing)
 
 💠 `CURRENT POSITION`:
 
@@ -41,6 +41,8 @@ Young Economist of the Year (2021) - 1st place. Awarded Paper: Checkmate! Losing
 
 
    💠 `Conferences`:
+   
+EEA-ESEM 2023 Congress, at Barcelona School of Economics (forthcoming)
 
 IAB/ZEW-conference Spatial Dimensions of the Labour Market, at Institute for Employment Research
 (IAB) in Nuremberg 
