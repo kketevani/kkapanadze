@@ -6,7 +6,7 @@ links:
 - icon: door-open
   icon_pack: fas
   name: Slides
-  url: https://drive.google.com/file/d/1VRiDmroIOWpIUdMF77Jt_rBn7xxxYmWp/view?usp=sharing
+  url: 
 - icon: github
   icon_pack: fab
   name: Working Paper
