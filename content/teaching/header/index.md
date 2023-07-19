@@ -9,9 +9,9 @@ headline: |
 
  ⚪ `BA level`:
  
-Lecturer at Charles University, PF UK, Institutional Economics (forthcoming Spring'24) 
+Lecturer at Charles University, PF UK, Institutional Economics (Spring'24) 
  
-Lecturer at Charles University, PF UK, Law and Economics (forthcoming Fall'23) 
+Lecturer at Charles University, PF UK, Law and Economics (Fall'23) 
  
 Lecturer at International School of Economics (ISET), Econometrics
 
