@@ -8,14 +8,17 @@ headline: |
 <!-- this is a subheadline -->
 
  ⚪ `BA level`:
+Lecturer at Charles University, Faculty of Law / Econ Department, Institutional Economics (forthcoming Spring'24) 
+ 
+Lecturer at Charles University, Faculty of Law / Econ Department, Law and Economics (forthcoming Fall'23) 
+ 
+Lecturer at International School of Economics (ISET), Econometrics
 
-Visiting Lecturer at Masaryk University Brno, Macroeconomics
-
-Visiting Lecturer at International School of Economics (ISET), Econometrics
+Lecturer at Masaryk University Brno, Macroeconomics
 
  ⚪ `MA level`:
 
-Visiting Lecturer at Masaryk University Brno, Econometrics
+Lecturer at Masaryk University Brno, Econometrics
 
 Teaching Assistant at University of Tartu, Microeconometrics
 
