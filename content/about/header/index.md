@@ -44,6 +44,12 @@ Young Economist of the Year (2021) - 1st place. Awarded Paper: Checkmate! Losing
    
 EEA-ESEM 2023 Congress, at Barcelona School of Economics (forthcoming)
 
+Agglomeration and Social Networks Research Lab, Invited Seminar Series
+
+Aix-Marseille Universit ́e, Invited Seminar Series
+
+Charles University, Faculty of Law, Economics Department, Invited Seminar Series
+
 IAB/ZEW-conference Spatial Dimensions of the Labour Market, at Institute for Employment Research
 (IAB) in Nuremberg 
 
