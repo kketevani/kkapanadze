@@ -12,5 +12,5 @@ links:
   icon_pack: fab
   name: Job Market Paper
   url: https://drive.google.com/file/d/1xuG2QPzIS2GJNcmQYR-XjBjEWgFmaHjc/view
-title: Bring Together What Belongs Together. The Case of Divided Cities in Europe
+title: Bringing Together What Belongs Together. The Case of Divided Cities in Europe
 ---
