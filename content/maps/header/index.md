@@ -3,7 +3,7 @@
 
 
 
-`I have created 3D maps of places where I lived more than a year`.
+`3D maps of places where I lived more than a year`.
  
 _FYI: Don't forget to zoom in (after clicking on country names) and wait a while; rendering may take sometime. So be patient! Have a drink of water_ 🙂
 
