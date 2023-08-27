@@ -141,8 +141,8 @@ enableEmoji = true
     url = "/reference/"
     weight = 6
      [[menu.header]]
-    name = "Other"
-    title = "Other"
+    name = "Visualisations"
+    title = "Visualisations"
     url = "/maps/"
     weight = 7
     
