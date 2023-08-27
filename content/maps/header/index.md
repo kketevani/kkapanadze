@@ -1,4 +1,4 @@
-##  [🖥️] (https://www.google.com/maps/d/u/0/edit?mid=1cSzFZygOrgJL-uw-Aa7BCzCTkXSGr0E&usp=sharing)
+##  [🖥️](https://www.google.com/maps/d/u/0/edit?mid=1cSzFZygOrgJL-uw-Aa7BCzCTkXSGr0E&usp=sharing)
 <img width="1012" alt="Screenshot 2023-08-27 at 3 39 50" src="https://github.com/kketevani/kkapanadze/assets/56413302/623dfb98-f62c-445b-9adb-edbffc5b0a54">
 
 
