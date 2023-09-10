@@ -7,7 +7,7 @@ links:
 - 
   name: 
   url: 
-action_link: /about
+action_link: /ketevani
 action_type: text
 image_left: true
 show_action_link: true
