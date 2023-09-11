@@ -110,6 +110,11 @@ enableEmoji = true
 
 [menu]
   # Configure header 
+    [[menu.header]]
+    name = "Ketevani"
+    title = "Ketevani"
+    url = "/ketevani/"
+    weight = 0
   [[menu.header]]
     name = "CV"
     title = "CV"
