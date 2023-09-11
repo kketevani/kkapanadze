@@ -6,7 +6,7 @@ layout: single
 links:
 - icon: door-open
   icon_pack: fas
-  name: Slides
+  name: Slide
   url: 
 - icon: github
   icon_pack: fab
