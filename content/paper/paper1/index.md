@@ -5,7 +5,7 @@ excerpt: This paper studies two major stages of European integration, the expans
 links:
 - icon: door-open
   icon_pack: fas
-  name: Slides
+  name: Slide
   url: 
 - icon: github
   icon_pack: fab
