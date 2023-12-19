@@ -8,6 +8,7 @@ headline: |
 <!-- this is a subheadline -->
 
 ## [Download CV here](https://drive.google.com/file/d/153OMBV5pvvUETB-Mzsse5lbcDmrzqYHE/view?usp=sharing)
+https://drive.google.com/file/d/12Fo4GdJzhpVJzVWA52-tl66OuMPpZmgv/view?usp=sharing
 
 💠 `CURRENT POSITION`:
 
