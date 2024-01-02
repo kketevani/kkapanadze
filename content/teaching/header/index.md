@@ -11,8 +11,7 @@ headline: |
  
 Lecturer at Charles University, PF UK, Institutional Economics (Spring'24) 
  
-Lecturer at Charles University, PF UK, Law and Economics (Fall'23) 
-https://drive.google.com/file/d/1H_dlCzJrH546VqT3dNFvVQxPc6MRfaQW/view?usp=sharing
+Lecturer at Charles University, PF UK, Law and Economics
 
 Lecturer at International School of Economics (ISET), Econometrics
 
