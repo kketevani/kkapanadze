@@ -11,9 +11,9 @@ headline: |
 
 💠 `CURRENT POSITION`:
 
-Assistant Professor (non-tenure) at Charles University, Faculty of Law, Economics Department. 
+Assistant Professor (non-tenure) at Charles University, Faculty of Law, Economics Department, 2023 - present
 
-Postdoctoral researcher on the project of [EqualStrength](https://equalstrength.eu)
+Postdoctoral researcher on the project of [EqualStrength](https://equalstrength.eu), 2023 - present
 
 CERGE-EI Foundation Teaching Fellow (NY, USA), 2020 - present
 
