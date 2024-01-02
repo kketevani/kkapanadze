@@ -7,10 +7,10 @@ links:
 - icon: door-open
   icon_pack: fas
   name: Slide
-  url: 
+  url: ttps://drive.google.com/file/d/17iQgsszxEdLMKppew8HatwQ2VoEZRs-N/view?usp=share_link
 - icon: github
   icon_pack: fab
   name: Job Market Paper
-  url: https://drive.google.com/file/d/17iQgsszxEdLMKppew8HatwQ2VoEZRs-N/view?usp=share_link
+  url: https://drive.google.com/file/d/1dBLVdbtLW59z9GfuGT5qFO0ENCVaFrNs/view?usp=sharingh
 title: Bringing Together What Belongs Together. The Case of Divided Cities in Europe
 ---
