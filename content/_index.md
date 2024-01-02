@@ -18,7 +18,7 @@ description: "My name is Ketevani Kapanadze. I am an Assistant professor (non-te
 <br> I am CERGE-EI Foundation Teaching Fellow (NY, USA). 
 <br> I am a team member of the National Institute for Research on the Socioeconomic Impacts of Disease and Systemic Risks (SYRI).
 
-<br><br> My research interests lie at the intersection of economic geography, remote sensing, European spatial and racial segregation.  
+<br><br> My research interests lie at the intersection of economic geography, remote sensing, European integration, European spatial and racial segregation.  
 <br><br> I enjoy working with large datasets and employ modern techniques to crawl data and create databases from open sources. I also work with remotely sensed images and use unconventional data sources for economic analysis - daytime & nighttime satellite images."
 
 text_align_left: true
