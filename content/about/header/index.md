@@ -7,14 +7,12 @@ headline: |
 
 <!-- this is a subheadline -->
 
-## [Download CV here](https://drive.google.com/file/d/153OMBV5pvvUETB-Mzsse5lbcDmrzqYHE/view?usp=sharing)
-https://drive.google.com/file/d/12Fo4GdJzhpVJzVWA52-tl66OuMPpZmgv/view?usp=sharing
+## [Download CV here]()
 
 💠 `CURRENT POSITION`:
 
 Charles University, Faculty of Law, Economics Department, 
-Assistant Professor (non-tenure) - Postdoctoral researcher on the project of [EqualStrength](https://equalstrength.eu), led by Josef Montag
-
+Assistant Professor (non-tenure) - Postdoctoral researcher on the project of [EqualStrength](https://equalstrength.eu)
 CERGE-EI Foundation Teaching Fellow (NY, USA), 2020 - present
 
 National Institute for Research on the Socioeconomic 
@@ -23,7 +21,7 @@ Team member, 2022 - present
 
 💠 `Education`:
 
-PhD, Economics and Econometrics, CERGE-EI, Prague - expected 2023
+PhD, Economics and Econometrics, CERGE-EI, Prague - 2023
 
 MA, Economics and Econometrics, CERGE-EI, Prague - 2018
 
