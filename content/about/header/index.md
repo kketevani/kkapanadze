@@ -42,7 +42,9 @@ Young Economist of the Year (2021) - 1st place. Awarded Paper: Checkmate! Losing
 
    💠 `Conferences`:
    
-EEA-ESEM 2023 Congress, at Barcelona School of Economics (forthcoming)
+SYRI Conference at Charles University, Prague
+   
+EEA-ESEM 2023 Congress, at Barcelona School of Economics
 
 Agglomeration and Social Networks Research Lab, Invited Seminar Series
 
