@@ -11,13 +11,14 @@ headline: |
 
 💠 `CURRENT POSITION`:
 
-Charles University, Faculty of Law, Economics Department, 
-Assistant Professor (non-tenure) - Postdoctoral researcher on the project of [EqualStrength](https://equalstrength.eu)
+Assistant Professor (non-tenure) at Charles University, Faculty of Law, Economics Department. 
+
+Postdoctoral researcher on the project of [EqualStrength](https://equalstrength.eu)
+
 CERGE-EI Foundation Teaching Fellow (NY, USA), 2020 - present
 
-National Institute for Research on the Socioeconomic 
-Impacts of Disease and Systemic Risks (SYRI)
-Team member, 2022 - present
+Team member of National Institute for Research on the Socioeconomic 
+Impacts of Disease and Systemic Risks (SYRI), 2022 - present
 
 💠 `Education`:
 
