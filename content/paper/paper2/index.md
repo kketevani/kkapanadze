@@ -5,8 +5,8 @@ excerpt: Do spatial concentrations of economic activities have deep historical r
 links:
 - icon: github
   icon_pack: fab
-  name: Job Market Paper
+  name: Working Paper
   url: https://drive.google.com/file/d/1dBLVdbtLW59z9GfuGT5qFO0ENCVaFrNs/view?usp=sharingh
-  
-title: Bringing Together What Belongs Together. The Case of Divided Cities in Europe
+
+title: Bring Together What Belongs Together. The Case of Divided Cities in Europe
 ---
