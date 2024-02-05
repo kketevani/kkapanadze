@@ -28,7 +28,7 @@ images:
 show_action_link: true
 show_social_links: true
 
-subtitle: Ketevani Kapanadze
+title: Ketevani 
 text_align_left: true
 type: home
 run: |
