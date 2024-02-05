@@ -9,6 +9,4 @@ links:
   name: with Irakli Barbakadze
   url:  https://sites.google.com/view/iraklibarbakadze  
 title: Combining Satellite imagery and machine learning to predict economic impact of land registration in Georgia
-weight: 3
 ---
-
