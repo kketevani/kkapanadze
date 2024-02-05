@@ -7,18 +7,6 @@ links:
   icon_pack: fab
   name: Working Paper
   url: https://drive.google.com/file/d/1dBLVdbtLW59z9GfuGT5qFO0ENCVaFrNs/view?usp=sharing
-- icon: github
-  icon_pack: fab
-  name: SSRN
-  url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3996196
-- icon: 
-  icon_pack: fas
-  name: Award winning paper
-  url: https://cse.cz/en/page/28th-young-economist-of-the-year-award#:~:text=Jan%20%C5%BDemli%C4%8Dka%20focuses%20on%20solution,details%20about%20an%20economy%20system.
-- icon: 
-  icon_pack: fas
-  name: Revise & Resubmit at the Journal of Economic Geography
-  url: https://academic.oup.com/joeg
 
 title: Checkmate! Losing with Borders, Winning with Centers. The Case of European Integration
 subtitle : under-review, award-winning paper (Young Economist of 2021)
