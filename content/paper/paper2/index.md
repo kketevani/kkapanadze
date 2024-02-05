@@ -6,7 +6,7 @@ links:
 - icon: github
   icon_pack: fab
   name: Working Paper
-  url: https://drive.google.com/file/d/1clfTVJZ4ETX-mJCT7LZaJz2TztiIhL65/view?usp=sharing
+  url: https://drive.google.com/file/d/1dBLVdbtLW59z9GfuGT5qFO0ENCVaFrNs/view
 - icon: github
   icon_pack: fab
   name: SSRN
