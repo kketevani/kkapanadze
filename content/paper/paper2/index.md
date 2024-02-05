@@ -8,7 +8,7 @@ links:
   name: Working Paper
   url: https://drive.google.com/file/d/1dBLVdbtLW59z9GfuGT5qFO0ENCVaFrNs/view?usp=sharing
 
-title: Checkmate! Losing with Borders, Winning with Centers. The Case of European Integration
+title: Bring Together What Belongs Together: The Case of Divided Cities in Europe
 subtitle : under-review, award-winning paper (Young Economist of 2021)
 event: under-review, award-winning paper (Young Economist of 2021)
 ---
