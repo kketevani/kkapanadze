@@ -28,10 +28,6 @@ images:
 show_action_link: true
 show_social_links: true
 
-title:('Ketevani Kapanadze') {
-  line-height: 1.5; 
-}
-
 subtitle: Ketevani Kapanadze
 text_align_left: true
 type: home
