@@ -1,12 +1,4 @@
 ---
-## Configure header of page
-headline: |
-  
-
----
-
-<!-- this is a subheadline -->
-
  ⚪ `BA level`:
  
 Lecturer at Charles University, PF UK, Institutional Economics (Fall'24) 
@@ -31,7 +23,7 @@ Teaching Assistant at CERGE-EI, Prague, Quantitative Economic History
 
 title: Teaching
 
-
+---
 
 
 
