@@ -7,6 +7,5 @@ links:
   icon_pack: fab
   name: Working Paper
   url: https://drive.google.com/file/d/1dBLVdbtLW59z9GfuGT5qFO0ENCVaFrNs/view?usp=sharingh
-
 title: Bring Together What Belongs Together. The Case of Divided Cities in Europe
 ---
