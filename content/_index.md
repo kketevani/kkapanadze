@@ -31,6 +31,7 @@ show_social_links: true
 .post-title:contains('Ketevani Kapanadze') {
   line-height: 1.5; /* Adjust the value as needed */
 }
+
 subtitle: Ketevani Kapanadze
 text_align_left: true
 type: home
