@@ -27,7 +27,7 @@ images:
 show_action_link: true
 show_social_links: true
 
-
+title: Ketevani
 subtitle: გამარჯობა - welcome 🤝 
 text_align_left: true
 type: home
