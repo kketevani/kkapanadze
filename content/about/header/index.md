@@ -9,7 +9,7 @@ headline: |
 
 ## [Download CV here](https://drive.google.com/file/d/1w1C3t41BoA2f6vb5HYU8MMrqxWCbXuKK/view?usp=share_link)
 
-💠 `CURRENT POSITION`:
+💠 `CURRENT `:
 
 Assistant Professor (non-tenure) at Charles University, Faculty of Law, Economics Department, 2023 - present
 
