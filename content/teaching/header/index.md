@@ -29,6 +29,8 @@ Teaching Assistant at the University of Tartu, Microeconometrics
 Teaching Assistant at CERGE-EI, Prague, Quantitative Economic History
 
 
+title: Teaching
+
 
 
 
