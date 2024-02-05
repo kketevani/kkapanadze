@@ -28,8 +28,8 @@ images:
 show_action_link: true
 show_social_links: true
 
-title:contains('Ketevani Kapanadze') {
-  line-height: 1.5; /* Adjust the value as needed */
+title:('Ketevani Kapanadze') {
+  line-height: 1.5; 
 }
 
 subtitle: Ketevani Kapanadze
