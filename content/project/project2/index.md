@@ -7,11 +7,7 @@ links:
 - icon: 
   icon_pack: fas
   name: with Irakli Barbakadze
-  url:  https://sites.google.com/view/iraklibarbakadze
-- icon: door-open
-  icon_pack: fas
-  name: WP upon request
-  url:   
+  url:  https://sites.google.com/view/iraklibarbakadze  
 title: Combining Satellite imagery and machine learning to predict economic impact of land registration in Georgia
 weight: 3
 ---
