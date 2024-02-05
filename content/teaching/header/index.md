@@ -9,7 +9,7 @@ headline: |
 
  ⚪ `BA level`:
  
-Lecturer at Charles University, PF UK, Institutional Economics (Spring'24) 
+Lecturer at Charles University, PF UK, Institutional Economics (Fall'24) 
  
 Lecturer at Charles University, PF UK, Law and Economics
 
@@ -21,7 +21,7 @@ Lecturer at Masaryk University Brno, Macroeconomics
 
 Lecturer at Masaryk University Brno, Econometrics
 
-Teaching Assistant at University of Tartu, Microeconometrics
+Teaching Assistant at the University of Tartu, Microeconometrics
 
 
 ⚪ `PhD level`:
