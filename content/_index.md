@@ -26,7 +26,6 @@ images:
 - img/kk.png
 show_action_link: true
 show_social_links: true
-text_link_url: /ketevani/
 
 
 subtitle: გამარჯობა - welcome 🤝 
