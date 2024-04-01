@@ -6,7 +6,7 @@ links:
 - icon: github
   icon_pack: fab
   name: Working Paper
-  url: https://drive.google.com/file/d/1dBLVdbtLW59z9GfuGT5qFO0ENCVaFrNs/view?usp=sharing
+  url: https://drive.google.com/file/d/1xuG2QPzIS2GJNcmQYR-XjBjEWgFmaHjc/view?usp=share_link
 
 title: Bring Together What Belongs Together. The Case of Divided Cities in Europe
 ---
