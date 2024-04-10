@@ -13,7 +13,7 @@ image_left: true
 show_action_link: true
 show_social_links: true
 
-description: "გამარჯობა - welcome 🤝 
+description: " 
 
 <br><br>  My name is Ketevani Kapanadze. I am an Assistant professor (non-tenure) at Charles University, Faculty of Law, and I am working as a postdoc on [EqualStrength](https://equalstrength.eu). 
 <br> I have obtained Ph.D. in Economics and Econometrics from CERGE-EI.   
@@ -28,7 +28,7 @@ images:
 show_action_link: true
 show_social_links: true
 
-subtitle: 
+subtitle: გამარჯობა - welcome 🤝
 text_align_left: true
 type: home
 run: |
