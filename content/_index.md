@@ -15,7 +15,7 @@ show_social_links: true
 
 description: "გამარჯობა - welcome 🤝 
 
-<br><br>  I am an Assistant professor (non-tenure) at Charles University, Faculty of Law, and I am working as a postdoc on [EqualStrength](https://equalstrength.eu). 
+<br><br>  My name is Ketevani Kapanadze. I am an Assistant professor (non-tenure) at Charles University, Faculty of Law, and I am working as a postdoc on [EqualStrength](https://equalstrength.eu). 
 <br> I have obtained Ph.D. in Economics and Econometrics from CERGE-EI.   
 <br> I am a member of CERGE-EI Foundation Teaching Fellow (NY, USA) and the National Institute for Research on the Socioeconomic Impacts of Disease and Systemic Risks (SYRI).
 
@@ -28,7 +28,7 @@ images:
 show_action_link: true
 show_social_links: true
 
-subtitle: Ketevani Kapanadze
+subtitle: 
 text_align_left: true
 type: home
 run: |
