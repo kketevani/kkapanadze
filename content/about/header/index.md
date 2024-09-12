@@ -44,15 +44,13 @@ Young Economist of the Year (2021) - 1st place. Awarded Paper: Checkmate! Losing
 
    💠 `Conferences`:
    
-Second Congress of Central and East European Studies, at German Association for East European Studies, Berlin [Forthcoming]
+DGO Congress of Central and East European Studies,CEEcon24, at German Association for East European Studies, Berlin [Forthcoming]
 
-63rd ERSA Congress, Regional Science Dialogues for Peace and Sustainable Development, Azores [Forthcoming]
-
-16th Joint IOS/APB/EACES Summer Academy on Central and Eastern Europe, at the Leibniz Institute for East and Southeast European Studies (IOS Regensburg) [Forthcoming]
+63rd ERSA Congress, Regional Science Dialogues for Peace and Sustainable Development, Azores
    
-Large Language Models and Machine Learning for Unstructured Data Seminar, organized by IESE Business School, University of Navarra [Forthcomimg]
+Large Language Models and Machine Learning for Unstructured Data Seminar, organized by IESE Business School, University of Navarra 
 
-Borders, Politics and Policies: Using Data to Power Border Research, at Borders in Globalization Lab’s (BIG Lab), Jean Monnet Network, European Parliament, Strasbourg [Forthcoming]
+Borders, Politics and Policies: Using Data to Power Border Research, at Borders in Globalization Lab’s (BIG Lab), Jean Monnet Network, European Parliament, Strasbourg 
    
 SYRI Conference at Charles University, Prague
    
