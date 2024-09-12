@@ -10,10 +10,11 @@ headline: |
 ## [Download CV here](https://drive.google.com/file/d/1v2EmyvCGG5Kwb3P_IivCIXLVKXlA9-lM/view)
 
 💠 `CURRENT `:
+Postdoctoral researcher at European Research University (ERUNI), 2024 - present
 
-Assistant Professor (non-tenure) at Charles University, Faculty of Law, Economics Department, 2023 - present
+Postdoctoral researcher on the project of [EqualStrength](https://equalstrength.eu), 2023 - 2024
 
-Postdoctoral researcher on the project of [EqualStrength](https://equalstrength.eu), 2023 - present
+Assistant Professor (non-tenure) at Charles University, Faculty of Law, Economics Department, 2023 - 2024
 
 CERGE-EI Foundation Teaching Fellow (NY, USA), 2020 - present
 
