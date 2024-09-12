@@ -10,6 +10,7 @@ headline: |
 ## [Download CV here](https://drive.google.com/file/d/1v2EmyvCGG5Kwb3P_IivCIXLVKXlA9-lM/view)
 
 💠 `CURRENT `:
+
 Postdoctoral researcher at European Research University (ERUNI), 2024 - present
 
 Postdoctoral researcher on the project of [EqualStrength](https://equalstrength.eu), 2023 - 2024
