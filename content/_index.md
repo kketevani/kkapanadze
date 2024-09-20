@@ -6,7 +6,6 @@ show_action_link: true
 show_social_links: true
 
 description: " 
-
 <br><br>  My name is Ketevani Kapanadze. I am a postdoctoral researcher on [EqualStrength](https://equalstrength.eu), at Charles University, Faculty of Law. 
 
 <br><br> I have obtained Ph.D. in Economics and Econometrics from CERGE-EI.   
@@ -25,6 +24,3 @@ subtitle: გამარჯობა - welcome 🤝
 text_align_left: true
 type: home
 ---
-
-** index doesn't contain a body, just front matter above.
-See index.html in the layouts folder **
