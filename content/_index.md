@@ -24,9 +24,6 @@ show_social_links: true
 subtitle: გამარჯობა - welcome 🤝
 text_align_left: true
 type: home
-run: |
-       git config --global user.email "kkapanad@gmail.com"
-       git config --global user.name "ketevani kapanadze"
 ---
 
 ** index doesn't contain a body, just front matter above.
