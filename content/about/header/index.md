@@ -26,7 +26,7 @@ Impacts of Disease and Systemic Risks (SYRI), 2022 - present
 
 PhD, Economics and Econometrics, CERGE-EI, Prague - 2023
 
-Visiting Researcher, Massachusetts Institute of Technology, (host: Prof. Albert Saiz)- 2020 
+Visiting Researcher, Massachusetts Institute of Technology, MIT Center for Real Estate (host: Prof. Albert Saiz)- 2020 
 
 MA, Economics and Econometrics, CERGE-EI, Prague - 2018
 
