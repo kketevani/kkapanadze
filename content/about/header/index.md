@@ -106,10 +106,14 @@ R, Python, QGIS, Stata
  Georgian (Native); English, Turkish (Advanced); Russian (Intermediate); Czech (Survival)
 
 
+subtitle: გამარჯობა - welcome 🤝
 text_align_left: true
 type: home
 run: |
+       git config --global user.email "kkapanad@gmail.com"
+       git config --global user.name "ketevani kapanadze"
 ---
+
 
  
 
