@@ -18,7 +18,7 @@ description: "
 
 <br><br> My research interests lie at the intersection of regional economics, remote sensing, and spatial segregations within Europe, with a special focus on border areas. I'm interested in understanding why some areas experience better economic growth than others, particularly how localised shocks impact local economies. To do this effectively, the lack of traditional data sources presents significant challenges in geospatial analysis. That’s why I enjoy using modern techniques to collect data and create datasets from open sources. I also work with remotely sensed images and use unconventional data sources for economic analysis - daytime & nighttime satellite images. 
 
-<br><br> I am a member of CERGE-EI Foundation Teaching Fellow (NY, USA) and the National Institute for Research on the Socioeconomic Impacts of Disease and Systemic Risks (SYRI).
+<br><br> I am a member of CERGE-EI Foundation Teaching Fellow (NY, USA) and the National Institute for Research on the Socioeconomic Impacts of Disease and Systemic Risks (SYRI)."
 
 text_align_left: true
 images:
