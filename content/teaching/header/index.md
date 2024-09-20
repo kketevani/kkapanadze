@@ -1,6 +1,6 @@
 ---
 ## Configure header of page
-headline: Teaching
+headline: 
 
 ---
 
