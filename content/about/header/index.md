@@ -1,11 +1,10 @@
 ---
-## Configure header of page
-headline: |
-  
-
----
-
-<!-- this is a subheadline -->
+links:
+- 
+  name: 
+  url: 
+  links:
+- 
 
 ## [Download CV here](https://drive.google.com/file/d/1v2EmyvCGG5Kwb3P_IivCIXLVKXlA9-lM/view)
 
@@ -107,6 +106,10 @@ R, Python, QGIS, Stata
  Georgian (Native); English, Turkish (Advanced); Russian (Intermediate); Czech (Survival)
 
 
+text_align_left: true
+type: home
+run: |
+---
 
  
 
