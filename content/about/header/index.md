@@ -12,6 +12,7 @@ action_type: text
 
 ## [Download CV here](https://drive.google.com/file/d/1v2EmyvCGG5Kwb3P_IivCIXLVKXlA9-lM/view)
 
+"
 🔸 `Experience`
 Research Fellow at European Research University (ERUNI), 2024 - present
 
@@ -107,7 +108,7 @@ R, Python, QGIS, Stata
  🔸 `Languages`:
 
  Georgian (Native); English, Turkish (Advanced); Russian (Intermediate); Czech (Survival)
-
+"
 
 subtitle: გამარჯობა - welcome 🤝
 text_align_left: true
