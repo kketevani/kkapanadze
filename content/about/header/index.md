@@ -94,20 +94,19 @@ and Management
 ERSA Summer School on Cities and Regions in the Process of Transformation, University of Katowice,
 Poland
 
-🔸 `Statistical Softwares`:
+ 🔸 `Statistical Softwares`:
 
 R, Python, QGIS, Stata
 
  🔸 `Statistical Skills`:
 
  Large Language Models (LLMs), Scrapy, Selenium, Geospatial techniques, Image and audio processing tools
- 
 
-  🔸 `Languages`:
+ 🔸 `Languages`:
 
  Georgian (Native); English, Turkish (Advanced); Russian (Intermediate); Czech (Survival)
 
----
+
 
  
 
