@@ -39,7 +39,8 @@ BA (Hons), Economics, Marmara University, Istanbul - 2014
 Young Economist of the Year (2021) - 1st place. Awarded Paper: Checkmate! Losing with Borders, Winning with Centers. The case of European Integration.
 
 🔸 `Conferences`:
-2024: 
+
+**2024** 
 
 DGO Congress of Central and East European Studies, CEEcon24, at German Association for East European Studies, Berlin 
 
@@ -51,7 +52,7 @@ Borders, Politics and Policies: Using Data to Power Border Research, at Borders 
    
 SYRI Conference at Charles University, Prague
 
-2023
+**2023**
 
 EEA-ESEM 2023 Congress, at Barcelona School of Economics
 
@@ -73,7 +74,8 @@ in the aftermath of the COVID-19 crisis
 12th ifo Dresden Workshop on Regional Economics, at ifo Institute - Leibniz Institute for Economic
 Research at the University of Munich Dresden Branch
 
-2022: 
+**2022**
+
 EEA-ESEM 2022 Congress, at Bocconi University
 
 10th UECE Conference on Economic and Financial Adjustments in Europe, at Lisbon School of Economics
@@ -83,7 +85,7 @@ and Management
 
 15th Australasian Trade Workshop, at University of Canterbury, Christchurch, New Zealand
 
-2021: 
+**2021** 
 
 28th Young Economist of the Year Award , at Czech Economic Society (1st place)
 
@@ -98,7 +100,7 @@ R, Python, QGIS, Stata
 
  💠 `Statistical Skills`:
 
- Large Language Models (LLMs), Scrapy, Geospatial techniques, Image and audio processing tools
+ Large Language Models (LLMs), Scrapy, Selenium, Geospatial techniques, Image and audio processing tools
  
 
   💠 `Languages`:
