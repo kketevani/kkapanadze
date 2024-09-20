@@ -9,7 +9,7 @@ headline: |
 
 ## [Download CV here](https://drive.google.com/file/d/1v2EmyvCGG5Kwb3P_IivCIXLVKXlA9-lM/view)
 
-🔸 `CURRENT `:
+🔸 `Experience `:
 
 Research Fellow at European Research University (ERUNI), 2024 - present
 
