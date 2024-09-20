@@ -2,7 +2,6 @@
 ## Configure header of page
 headline: |
 
----
 
 ⬜ `BA level`:
  
@@ -22,9 +21,3 @@ Teaching Assistant at the University of Tartu, Microeconometrics
 ⬜  `PhD level`:
 
 Teaching Assistant at CERGE-EI, Prague, Quantitative Economic History
-
----
-
-
-
-
