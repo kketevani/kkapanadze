@@ -1,18 +1,16 @@
 ---
-links:
-- 
-  name: 
-  url: 
-  links:
-- 
-  name: 
-  url: 
-action_link: /ketevani
-action_type: text
+## Configure header of page
+headline: |
+  
+
+---
+
+<!-- this is a subheadline -->
+
 
 ## [Download CV here](https://drive.google.com/file/d/1v2EmyvCGG5Kwb3P_IivCIXLVKXlA9-lM/view)
 
-"
+
 🔸 `Experience`
 Research Fellow at European Research University (ERUNI), 2024 - present
 
@@ -108,15 +106,7 @@ R, Python, QGIS, Stata
  🔸 `Languages`:
 
  Georgian (Native); English, Turkish (Advanced); Russian (Intermediate); Czech (Survival)
-"
 
-subtitle: გამარჯობა - welcome 🤝
-text_align_left: true
-type: home
-run: |
-       git config --global user.email "kkapanad@gmail.com"
-       git config --global user.name "ketevani kapanadze"
----
 
 
  
