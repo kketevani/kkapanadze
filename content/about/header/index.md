@@ -9,9 +9,9 @@ headline: |
 
 ## [Download CV here](https://drive.google.com/file/d/1v2EmyvCGG5Kwb3P_IivCIXLVKXlA9-lM/view)
 
-💠 `CURRENT `:
+🔸 `CURRENT `:
 
-Postdoctoral researcher at European Research University (ERUNI), 2024 - present
+Research Fellow at European Research University (ERUNI), 2024 - present
 
 Postdoctoral researcher on the project of [EqualStrength](https://equalstrength.eu), 2023 - 2024
 
@@ -22,9 +22,11 @@ CERGE-EI Foundation Teaching Fellow (NY, USA), 2020 - present
 Team member of National Institute for Research on the Socioeconomic 
 Impacts of Disease and Systemic Risks (SYRI), 2022 - present
 
-💠 `Education`:
+🔸 `Education`:
 
 PhD, Economics and Econometrics, CERGE-EI, Prague - 2023
+
+Visiting Researcher, Massachusetts Institute of Technology, (host: Prof. Albert Saiz)- 2020 
 
 MA, Economics and Econometrics, CERGE-EI, Prague - 2018
 
@@ -32,19 +34,14 @@ MA, Mathematical Economics, University of Tartu, Tartu - 2016
 
 BA (Hons), Economics, Marmara University, Istanbul - 2014
 
-💠 `OTHER AFFILIATION`:
-
-Visiting Researcher, Massachusetts Institute of Technology, (host, Prof. Albert Saiz) - 2019-2020 
-
-
- 💠 `Awards`:
+🔸 `Awards`:
 
 Young Economist of the Year (2021) - 1st place. Awarded Paper: Checkmate! Losing with Borders, Winning with Centers. The case of European Integration.
 
+🔸 `Conferences`:
+2024: 
 
-   💠 `Conferences`:
-   
-DGO Congress of Central and East European Studies,CEEcon24, at German Association for East European Studies, Berlin [Forthcoming]
+DGO Congress of Central and East European Studies, CEEcon24, at German Association for East European Studies, Berlin 
 
 63rd ERSA Congress, Regional Science Dialogues for Peace and Sustainable Development, Azores
    
@@ -53,7 +50,9 @@ Large Language Models and Machine Learning for Unstructured Data Seminar, organi
 Borders, Politics and Policies: Using Data to Power Border Research, at Borders in Globalization Lab’s (BIG Lab), Jean Monnet Network, European Parliament, Strasbourg 
    
 SYRI Conference at Charles University, Prague
-   
+
+2023
+
 EEA-ESEM 2023 Congress, at Barcelona School of Economics
 
 Agglomeration and Social Networks Research Lab, Invited Seminar Series
@@ -74,6 +73,7 @@ in the aftermath of the COVID-19 crisis
 12th ifo Dresden Workshop on Regional Economics, at ifo Institute - Leibniz Institute for Economic
 Research at the University of Munich Dresden Branch
 
+2022: 
 EEA-ESEM 2022 Congress, at Bocconi University
 
 10th UECE Conference on Economic and Financial Adjustments in Europe, at Lisbon School of Economics
@@ -83,6 +83,8 @@ and Management
 
 15th Australasian Trade Workshop, at University of Canterbury, Christchurch, New Zealand
 
+2021: 
+
 28th Young Economist of the Year Award , at Czech Economic Society (1st place)
 
 13th international conference ”Challenges of Europe”, Split - Croatia
@@ -90,13 +92,18 @@ and Management
 ERSA Summer School on Cities and Regions in the Process of Transformation, University of Katowice,
 Poland
 
-  💠 `Skills`:
+  💠 `Statistical Softwares`:
 
- Statistical Packages: R, Stata, Python/Scrapy, QGIS
+R, Python, QGIS, Stata
+
+ 💠 `Statistical Skills`:
+
+ Large Language Models (LLMs), Scrapy, Geospatial techniques, Image and audio processing tools
+ 
 
   💠 `Languages`:
 
- Georgian (Native); English, Turkish (Advanced); Russian (Intermediate)
+ Georgian (Native); English, Turkish (Advanced); Russian (Intermediate); Czech (Survival)
 
  
 
