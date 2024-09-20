@@ -1,12 +1,4 @@
 ---
-links:
-- 
-  name: 
-  url: 
-  links:
-- 
-  name: 
-  url: 
 action_link: /ketevani
 action_type: text
 image_left: true
