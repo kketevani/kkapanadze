@@ -107,6 +107,8 @@ R, Python, QGIS, Stata
 
  Georgian (Native); English, Turkish (Advanced); Russian (Intermediate); Czech (Survival)
 
+ text_align_left: true
+
  
 
 
