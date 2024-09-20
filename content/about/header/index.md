@@ -100,7 +100,7 @@ R, Python, QGIS, Stata
 
  🔸 `Statistical Skills`:
 
- Large Language Models (LLMs), Scrapy, Selenium, Geospatial techniques, Image and audio processing tools
+ Large Language Models (LLMs), Scrapy, Selenium, Geospatial tools/GIS, Image and audio processing tools
 
  🔸 `Languages`:
 
