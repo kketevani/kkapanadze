@@ -9,7 +9,7 @@ links:
 - icon: github
   icon_pack: fab
   name: SSRN
-  url: https://drive.google.com/file/d/1Q1w5_kRYiOEhh0CyHXIb8UNNXY7XtMxJ/view?usp=sharing
+  url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3996196
 - icon: 
   icon_pack: fas
   name: Award winning paper
