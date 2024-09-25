@@ -11,8 +11,6 @@ links:
 title: Bring Together What Belongs Together. The Case of Divided Cities in Europe
 ---
 
-### Option 1: HTML with Inline CSS
+### Frankfurt (Oder) - Slubice 
 
-This method uses HTML directly in Markdown to set the image size.
-
-<img src="featured.png" alt="Description of image" style="width:500px;">
+<img src="featured.png" alt="Description of image" style="width:1000px;">
