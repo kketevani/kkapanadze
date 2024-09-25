@@ -6,7 +6,7 @@ links:
   url: https://twitter.com/ketevani_kapanadze
 - name: ResearchGate
   url: https://www.researchgate.net/profile/Ketevani_Kapanadze
-show_social_links: false
+show_social_links: true
 
 
 description: " 
