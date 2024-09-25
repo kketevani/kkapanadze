@@ -19,8 +19,6 @@ title: Bring Together What Belongs Together. The Case of Divided Cities in Europ
 
 ### Frankfurt (Oder) - Slubice 
 
-### Frankfurt (Oder) - Slubice 
-
 <style>
   .zoom {
     transition: transform 0.2s; /* Animation */
