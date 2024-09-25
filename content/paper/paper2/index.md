@@ -15,5 +15,4 @@ title: Bring Together What Belongs Together. The Case of Divided Cities in Europ
 
 This method uses HTML directly in Markdown to set the image size.
 
-```html
-<img src="https://user-images.githubusercontent.com/56413302/227745440-44c4ba0b-3a31-4838-8483-4e129e2dc4f2.png" alt="4" style="width: 866px;"/>
+<img src="featured.png" alt="Description of image" style="width:500px;">
