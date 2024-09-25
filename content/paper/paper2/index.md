@@ -8,9 +8,12 @@ links:
   name: Working Paper
   url: https://drive.google.com/file/d/13VD1dWg_laMn6tCxt6gqrJ-rnNTCP2bm/view?usp=sharing
 
-  
 title: Bring Together What Belongs Together. The Case of Divided Cities in Europe
 ---
 
-<img src="featured.png" width="1000"/>
+### Option 1: HTML with Inline CSS
 
+This method uses HTML directly in Markdown to set the image size.
+
+```html
+<img src="featured.png" alt="Description of image" style="width:500px;">
