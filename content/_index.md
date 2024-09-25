@@ -1,12 +1,14 @@
 ---
 links:
 - 
-  name: 
-  url: 
-  links:
+  name: LinkedIn
+  url: https://www.linkedin.com/in/ketevani-kapanadze/
 - 
-  name: 
-  url: 
+  name: Twitter
+  url: https://twitter.com/ketevani_kapanadze
+- 
+  name: ResearchGate
+  url: https://www.researchgate.net/profile/Ketevani_Kapanadze
 action_link: /ketevani
 action_type: text
 image_left: true
