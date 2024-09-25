@@ -17,8 +17,6 @@ My name is Ketevani Kapanadze. I am a research fellow at the European Research U
 text_align_left: true
 images:
 - img/kk.png
-show_action_link: true
-show_social_links: true
 
 subtitle: გამარჯობა - welcome 🤝
 text_align_left: true
