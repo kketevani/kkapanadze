@@ -15,6 +15,6 @@ links:
   name: Award winning paper
   url: https://cse.cz/en/page/28th-young-economist-of-the-year-award#:~:text=Jan%20%C5%BDemli%C4%8Dka%20focuses%20on%20solution,details%20about%20an%20economy%20system.
 
-title: Checkmate! Losing with Borders, Winning with Centers. The Case of European Integration
+title: Losing with Borders, Winning with Centers. The Case of European Integration
 ---
 
