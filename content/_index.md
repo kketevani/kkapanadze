@@ -2,8 +2,6 @@
 action_link: /ketevani
 action_type: text
 image_left: true
-show_action_link: true
-show_social_links: true
 
 description: " 
 My name is Ketevani Kapanadze. I am a research fellow at the European Research University (ERUNI) in Prague. I obtained Ph.D. in Economics and Econometrics from CERGE-EI. I am a member of CERGE-EI Foundation Teaching Fellow (NY, USA) and the National Institute for Research on the Socioeconomic Impacts of Disease and Systemic Risks (SYRI).  
