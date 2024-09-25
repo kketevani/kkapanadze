@@ -12,5 +12,5 @@ links:
 title: Bring Together What Belongs Together. The Case of Divided Cities in Europe
 ---
 
-<img src="featured.png" width="500"/>
+<img src="featured.png" width="1000"/>
 
