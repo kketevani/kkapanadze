@@ -7,6 +7,10 @@ links:
 - icon: github
   name: Working Paper
   url: https://drive.google.com/file/d/13VD1dWg_laMn6tCxt6gqrJ-rnNTCP2bm/view?usp=sharing
+  
+  - icon: github
+  name: Platform
+  url: https://drive.google.com/file/d/13VD1dWg_laMn6tCxt6gqrJ-rnNTCP2bm/view?usp=sharing
 
 title: Bring Together What Belongs Together. The Case of Divided Cities in Europe
 ---
