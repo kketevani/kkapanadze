@@ -1,5 +1,7 @@
 ---
 date: "2024-02-22"
+title: Bring Together What Belongs Together. The Case of Divided Cities in Europe
+weight: 3
 links:
 - icon: github
   icon_pack: fab
@@ -9,12 +11,8 @@ links:
   icon_pack: fab
   name: Platform
   url: https://europe-nightlight.shinyapps.io/cities/
-  
-
-title: Bring Together What Belongs Together. The Case of Divided Cities in Europe
 ---
-
-##### Satellite Nighttime Lights 
+Satellite Nighttime Lights 
 ##### Frankfurt (Germany) - Slubice (Poland)
 
 <style>
