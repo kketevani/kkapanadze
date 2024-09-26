@@ -131,11 +131,6 @@ enableEmoji = true
     url = "/project/"
     weight = 4
     [[menu.header]]
-    name = "Platforms"
-    title = "Platforms"
-    url = "/platform/"
-    weight = 5
-    [[menu.header]]
     name = "References"
     title = "References"
     url = "/reference/"
