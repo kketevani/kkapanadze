@@ -1,7 +1,8 @@
 ---
-date: "2022-01-01T14:15:59-01:00"
-excerpt: The COVID-19 pandemic brought unprecedented challenges, including the temporary suspension of the principle of free movement of people within the Schengen Area. I evaluate the potential economic cost of controlling European borders during the pandemic. I use unconventional data sources such as NASA's Black Marble Nighttime Lights (NTL) to provide insights into the economic impact of border restrictions on European municipalities. The results suggest that the impact of travel restrictions vary across cities; economic activities tend to decrease more in cross-border cities than in interior cities, especially in small border cities. The paper also finds a larger decline in NTL radiance in border municipalities of New Member States compared to Old Member States. Using the municipality-type subgroups, the paper shows that border municipalities specialize on manufacturing, consumer and service industries are more adversely affected by border restrictions than similar but agriculture oriented municipalities. Moreover, there is a significant reduction in NTL in municipalities where people oftentimes commute to foreign cross-border areas for shopping, leisure, and business purposes; where large number of residents are employed; and where people have high awareness about EU funded cross-border activities and perceive living near the international border as economic potential rather than barrier.
+draft: no
+excerpt: 
 layout: single
+date: '2020-10-03'
 links:
 - icon: github
   icon_pack: fab
@@ -10,8 +11,7 @@ links:
 title: Europe, we have a problem! The Economic Cost of Border Controls during COVID-19
 ---
 
-##### Satellite Nighttime Lights Before and After Border Controls
-##### Germany - Poland 
+Do spatial concentrations of economic activities have deep historical roots in Europe? This paper explores a unique quasi-natural experiment of opening borders within cities that were historically a single urban entity and were divided due to border shifts following major historical conflicts. After inter-city borders were opened, I find that local economic activities, measured by remotely sensed nightlight, became more concentrated close to the pre-division city centers. This raises an important question, what type of border opening is more important in spurring agglomeration, the free movement of goods or of people? When looking into potential mechanisms behind the impact, using national business register databases, I find that proximity to former historical centers is more prominent, particularly after allowance of the free movement of people as a part of the Schengen agreement in 2008, whereas gaining broader market access following the 2004 EU enlargement is less important. I account for two main channels. First, I show that firms in the consumption sectors are more exposed to the free movement of people and are more likely to start operating closer to historical city centers than are firms in the production sectors, which are less affected by local market potentials. Second, I show that cities in which cultural and language differences are not barriers to cross-border cooperation are more influenced by the free movement of people than cities where these barriers still exist. Hence, spatial agglomerations near pre-division city centers are more apparent in almost borderless cities.
 
 <style>
   .zoom {
@@ -23,3 +23,5 @@ title: Europe, we have a problem! The Economic Cost of Border Controls during CO
 </style>
 
 <img src="featured.png" alt="Description of image" style="width:1000px;" class="zoom">
+
+
