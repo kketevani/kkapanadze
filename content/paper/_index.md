@@ -20,8 +20,8 @@ sidebar:
   show_sidebar_adunit: false
   text_link_label: ""
   text_link_url: ""
-  title: Working Papers
-title: Research
+  title: Research
+title: Working Papers
 ---
 
 ** No content for the project index. This file provides front matter for the blog including the layout and boolean options. **
