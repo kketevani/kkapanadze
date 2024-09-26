@@ -16,8 +16,7 @@ links:
 title: Bring Together What Belongs Together. The Case of Divided Cities in Europe
 ---
 
-##### The establishment of firms by year  
-##### Český Těšín (Czechia) - Cieszyn (Poland)
+### The establishment of firms by year Ceský Těšín (Czechia) - Cieszyn (Poland)
 
 <style>
   .zoom {
@@ -29,3 +28,5 @@ title: Bring Together What Belongs Together. The Case of Divided Cities in Europ
 </style>
 
 <img src="fe1.png" alt="Description of image" style="width:1000px;" class="zoom">
+
+
