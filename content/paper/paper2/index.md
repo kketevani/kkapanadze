@@ -17,7 +17,7 @@ links:
 title: Bring Together What Belongs Together. The Case of Divided Cities in Europe
 ---
 
-### Frankfurt (Oder) - Slubice 
+### Nighlights in Frankfurt (Germany) - Slubice (Poland)
 
 <style>
   .zoom {
@@ -31,7 +31,7 @@ title: Bring Together What Belongs Together. The Case of Divided Cities in Europ
 <img src="featured.png" alt="Description of image" style="width:1000px;" class="zoom">
 ---
 
-### Czech (Oder) - Polish 
+### Establishment of firms by year Český Těšín (Czechia) - Cieszyn (Poland) 
 
 <style>
   .zoom {
