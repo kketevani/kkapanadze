@@ -1,6 +1,9 @@
 ---
-date: "2022-01-01T14:15:59-02:00"
-excerpt: This paper studies two major stages of European integration, the expansion of the European Union (EU) in 2004 and the Schengen Area in 2008, and their impacts on economic performance in subregions of Central and Eastern European (CEE) countries. Using European regional data at the NUTS3 level and disaggregated synthetic control method, I construct counterfactuals for sub-regions of CEE countries. This approach allows me to assess regional treatment effects (RTEs) and to study the heterogeneous effects of European integration. I find that the benefits of EU and Schengen memberships to annual GDP per capita are approximately 10% less in border regions, relative to interior areas. The results expose regional economic disparities, as border regions lose relative to interior regions since European integration. Furthermore, integration facilitators in border regions, such as fewer geographical barriers, more service employment, and positive attitudes toward the EU, did not reduce economic disparities. The results show that the gap persists, regardless of some complementarities. Thus, the main implication of this paper is that sub-regions of CEE countries are far from being fully converged and that European integration instead seems to have spurred sub-regional divergence.
+date: "2019-04-08"
+show_post_date: false
+draft: false
+layout: single
+weight: 3
 links:
 - icon: github
   icon_pack: fab
