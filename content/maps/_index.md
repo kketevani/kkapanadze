@@ -6,6 +6,7 @@ description: |
 show_header: true
 sidebar_left: false
 text_link_url: /maps/
+title: Maps
 
 ---
 
