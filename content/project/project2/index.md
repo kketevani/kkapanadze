@@ -1,12 +1,8 @@
 ---
 draft: no
-excerpt: ""
+excerpt: "with irakli barbakadze"
 layout: single
 date: '2020-10-04'
-links:
-  - icon: ""
-    icon_pack: ""
-    name: "with irakli barbakadze"
 title: Combining Satellite Imagery and Machine Learning to Predict Economic Impact of Land Registration in Georgia
 ---
 
