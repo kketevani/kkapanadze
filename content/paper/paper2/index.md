@@ -1,7 +1,7 @@
 ---
 draft: no
 excerpt: 
-layout: single-sidebar 
+layout: single
 date: '2020-10-03'
 links:
 - icon: github
