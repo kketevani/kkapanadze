@@ -11,7 +11,7 @@ title: Europe, we have a problem! The Economic Cost of Border Controls during CO
 ---
 
 ##### Satellite Nighttime Lights Before and After Border Controls
-##### Germany - Slubice 
+##### Germany - Poland 
 
 <style>
   .zoom {
