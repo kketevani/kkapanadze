@@ -6,7 +6,7 @@ description: |
 show_header: true
 sidebar_left: false
 text_link_url: /about - Copy - Copy/
-title: About
+title: References
 ---
 
 ** index doesn't contain a body, just front matter above.
