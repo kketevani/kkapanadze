@@ -1,12 +1,12 @@
 ---
 cascade:
   headless: true
-description: |
+description:
   
 show_header: true
 sidebar_left: false
 text_link_url: /about - Copy/
-title: About
+title: Teaching
 ---
 
 ** index doesn't contain a body, just front matter above.
