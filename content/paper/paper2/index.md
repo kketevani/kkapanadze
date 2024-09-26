@@ -28,6 +28,8 @@ Do spatial concentrations of economic activities have deep historical roots in E
 
 <img src="featured.png" alt="Description of image" style="width:1000px;" class="zoom">
 
+#### Companies by year of establishment
+#### Cesky Tesin (Czechia) - Cieszyn (Poland)
 <style>
   .zoom {
     transition: transform 0.2s; /* Animation */
