@@ -17,8 +17,7 @@ title: Bring Together What Belongs Together. The Case of Divided Cities in Europ
 ---
 
 
-### The establishment of firms by year Ceský Těšín (Czechia) - Cieszyn (Poland)
-Abstract:
+### 
 Do spatial concentrations of economic activities have deep historical roots in Europe? This paper explores a
 unique quasi-natural experiment of opening borders within cities that were historically a single urban entity and were
 divided due to border shifts following major historical conflicts. After inter-city borders were opened, I find that local
