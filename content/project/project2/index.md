@@ -4,8 +4,8 @@ excerpt:
 layout: single
 date: '2020-10-04'
 links:
-  - icon: github
-    icon_pack: fab
+  - icon: 
+    icon_pack: 
     name: with Irakli Barbakadze
 title: Combining Satellite imagery and machine learning to predict economic impact of land registration in Georgia
 ---
