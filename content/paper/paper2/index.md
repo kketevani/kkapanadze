@@ -29,3 +29,19 @@ title: Bring Together What Belongs Together. The Case of Divided Cities in Europ
 </style>
 
 <img src="featured.png" alt="Description of image" style="width:1000px;" class="zoom">
+---
+
+### Czech (Oder) - Polish 
+
+<style>
+  .zoom {
+    transition: transform 0.2s; /* Animation */
+  }
+  .zoom:hover {
+    transform: scale(1.5); /* (150% zoom) */
+  }
+</style>
+
+<img src="fe1.png" alt="Description of image" style="width:1000px;" class="zoom">
+---
+
