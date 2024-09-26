@@ -4,8 +4,8 @@ excerpt:  "with Irakli Barbakadze"
 layout: single
 date: '2020-10-04'
 links:
-- icon: github
-  icon_pack: fab
+- icon: 
+  icon_pack: 
   name: Platform
   url: https://georgianlights.shinyapps.io/light/
 title: Socio-Economic and Political Consequences of the Relocating Parliament
