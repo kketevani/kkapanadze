@@ -17,7 +17,8 @@ links:
 title: Bring Together What Belongs Together. The Case of Divided Cities in Europe
 ---
 
-### Satellite Nighttime Lights in Frankfurt (Germany) - Slubice (Poland)
+### Satellite Nighttime Lights 
+### Frankfurt (Germany) - Slubice (Poland)
 
 <style>
   .zoom {
@@ -29,9 +30,10 @@ title: Bring Together What Belongs Together. The Case of Divided Cities in Europ
 </style>
 
 <img src="featured.png" alt="Description of image" style="width:1000px;" class="zoom">
----
 
-### The establishment of firms by year in Český Těšín (Czechia) and Cieszyn. 
+
+### The establishment of firms by year  
+### Český Těšín (Czechia) - Cieszyn
 
 <style>
   .zoom {
@@ -43,5 +45,5 @@ title: Bring Together What Belongs Together. The Case of Divided Cities in Europ
 </style>
 
 <img src="fe1.png" alt="Description of image" style="width:1000px;" class="zoom">
----
+
 
