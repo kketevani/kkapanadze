@@ -6,7 +6,7 @@ date: '2020-10-04'
 links:
   - icon: 
     icon_pack: 
-    name: with Irakli Barbakadze
+    name: <span style="text-transform: none;">with irakli barbakadze</span>
 title: Combining Satellite imagery and machine learning to predict economic impact of land registration in Georgia
 ---
 
