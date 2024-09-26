@@ -1,12 +1,8 @@
 ---
 draft: no
-excerpt:  ""
+excerpt:  "with Irakli Barbakadze"
 layout: single
 date: '2020-10-04'
-links:
-- icon: 
-  icon_pack: 
-  name: with Irakli Barbakadze
 title: Socio-Economic and Political Consequences of the Relocating Parliament
 ---
 
