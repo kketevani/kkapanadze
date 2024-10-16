@@ -8,7 +8,7 @@ links:
   icon_pack: fab
   name: Working Paper
   url: https://drive.google.com/file/d/1BUyo1PijqiE80fHnwO6nFoSgawXQNF6K/view?usp=share_link
-  - icon: 
+- icon: 
   icon_pack: 
   name: with Mariola Pytlikova
   url: https://sites.google.com/site/pytlikovaweb/
