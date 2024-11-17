@@ -7,7 +7,7 @@ links:
 - icon: github
   icon_pack: fab
   name: Working Paper
-  url: https://drive.google.com/file/d/1XmsJaEjMTElF64MJ_S2itBgGXgTyIwyO/view?usp=sharing
+  url: https://drive.google.com/file/d/13VD1dWg_laMn6tCxt6gqrJ-rnNTCP2bm/view?usp=sharing
 - ⁠icon: github
   icon_pack: fab
   name: Platform
