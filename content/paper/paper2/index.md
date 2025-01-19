@@ -8,6 +8,10 @@ links:
   icon_pack: fab
   name: Working Paper
   url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5018991
+- icon: github
+  icon_pack: fab
+  name: Slides
+  url: https://drive.google.com/file/d/13VD1dWg_laMn6tCxt6gqrJ-rnNTCP2bm/view?usp=sharing
 - ⁠icon: github
   icon_pack: fab
   name: Platform
