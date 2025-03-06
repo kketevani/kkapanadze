@@ -7,7 +7,7 @@ links:
 - icon: github
   icon_pack: fab
   name: WP on Request
-  url: 
+  url: "mailto:ketevani.kapanadze@eruni.org"
 - icon: 
   icon_pack: 
   name: with Mariola Pytlikova
