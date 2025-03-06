@@ -6,8 +6,8 @@ date: '2020-10-03'
 links:
 - icon: github
   icon_pack: fab
-  name: Working Paper
-  url: On Request
+  name: WP on Request
+  url: 
 - icon: 
   icon_pack: 
   name: with Mariola Pytlikova
