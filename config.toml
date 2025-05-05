@@ -28,6 +28,7 @@ enableEmoji = true
     style = "github"
     
 [params]
+  googleAnalytics = "G-GC6N74L6N2"
   orgName = "Ketevani Kapanadze"
   orgLocal = ""
   description = "Akkkkkklog theme for Hugo."
