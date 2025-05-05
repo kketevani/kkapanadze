@@ -1,11 +1,8 @@
-<!DOCTYPE html>
-<html lang="{{ .Site.LanguageCode }}" dir="ltr">
-    {{- partial "head.html" . -}}
-    <body>
-      <div class="grid-container{{ if .Params.layout }} {{ .Params.layout }}{{ end }}{{ if .IsHome }} home{{ end }}">
-        {{- block "header" . }}{{- partial "header.html" . -}}{{- end }}
-        {{- block "main" . }}{{- end }}
-        {{- block "footer" . }}{{- partial "footer.html" . -}}{{- end }}
-      </div>
-    </body>
-</html>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-GC6N74L6N2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-GC6N74L6N2');
+</script>
