@@ -28,11 +28,7 @@ St. Gallen
 
 e-mail: christian.ochsner@cerge-ei.cz
 
-## [Josef Montag](https://josefmontag.github.io)
 
-Associate Professor, Department of Economics, Faculty of Law Charles University
-
-e-mail: montagj@prf.cuni.cz
 
 
 
