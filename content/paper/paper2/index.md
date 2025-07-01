@@ -15,7 +15,7 @@ links:
 - ⁠icon: github
   icon_pack: fab
   name: Platform
-  url: https://europe-nightlight.shinyapps.io/cities/
+  url: https://drive.google.com/file/d/1z-hNDD1uOb_HG_7W6P0i8a7UXw2jpfkm/view?usp=sharing
 title: Bring Together What Belongs Together. The Case of Divided Cities in Europe
 ---
 
