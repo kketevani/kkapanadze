@@ -7,7 +7,7 @@ links:
 - icon: github
   icon_pack: fab
   name: Working Paper
-  url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5018991
+  url: https://drive.google.com/file/d/1z-hNDD1uOb_HG_7W6P0i8a7UXw2jpfkm/view?usp=sharing
 - icon: github
   icon_pack: fab
   name: Slides
@@ -15,7 +15,7 @@ links:
 - ⁠icon: github
   icon_pack: fab
   name: Platform
-  url: https://drive.google.com/file/d/1z-hNDD1uOb_HG_7W6P0i8a7UXw2jpfkm/view?usp=sharing
+  url: https://europe-nightlight.shinyapps.io/cities/
 title: Bring Together What Belongs Together. The Case of Divided Cities in Europe
 ---
 
