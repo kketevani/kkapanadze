@@ -7,7 +7,7 @@ links:
 - icon: github
   icon_pack: fab
   name: Working Paper
-  url: https://drive.google.com/file/d/1z-hNDD1uOb_HG_7W6P0i8a7UXw2jpfkm/view?usp=sharing
+  url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5018991
 - icon: github
   icon_pack: fab
   name: Slides
