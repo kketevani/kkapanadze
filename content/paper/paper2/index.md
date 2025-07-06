@@ -11,7 +11,7 @@ links:
 - icon: github
   icon_pack: fab
   name: Slides
-  url: https://drive.google.com/file/d/13VD1dWg_laMn6tCxt6gqrJ-rnNTCP2bm/view?usp=sharing
+  url: 
 - ⁠icon: github
   icon_pack: fab
   name: Platform
