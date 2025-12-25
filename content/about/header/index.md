@@ -62,6 +62,16 @@ Aix-Marseille University, Economics Department
 
 🔸 `Conferences`:
 
+**2025**
+
+European Economic Association (EEA) Congress, University of Bordeaux 
+
+17th Joint IOS/APB/EACES Summer Academy on Central and Eastern Europe, Tutzing 
+
+The 7th International Conference on European Economics and Politics, University of Milano-Bicocca
+
+European Workshop on Political Macroeconomics (EWPM), University of Lille
+
 **2024** 
 
 DGO Congress of Central and East European Studies, CEEcon24, at German Association for East European Studies, Berlin 
