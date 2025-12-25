@@ -42,6 +42,20 @@ BA (Hons), Economics, Marmara University, Istanbul - 2014
 
 Young Economist of the Year (2021) - 1st place. Awarded Paper: Checkmate! Losing with Borders, Winning with Centers. The case of European Integration.
 
+🔸 `Invites Speaker`:
+**2025**
+
+
+European Research University (ERUNI), Ostrava, Seminar Series
+
+**2024**
+Charles University, Faculty of Law, Economics Department, Seminar Series
+
+**2023**
+Agglomeration and Social Networks Research Lab, Seminar Series
+
+Aix-Marseille Universit ́e, Invited Seminar Series
+
 🔸 `Conferences`:
 
 **2024** 
@@ -59,12 +73,6 @@ SYRI Conference at Charles University, Prague
 **2023**
 
 EEA-ESEM 2023 Congress, at Barcelona School of Economics
-
-Agglomeration and Social Networks Research Lab, Invited Seminar Series
-
-Aix-Marseille Universit ́e, Invited Seminar Series
-
-Charles University, Faculty of Law, Economics Department, Invited Seminar Series
 
 IAB/ZEW-conference Spatial Dimensions of the Labour Market, at Institute for Employment Research
 (IAB) in Nuremberg 
