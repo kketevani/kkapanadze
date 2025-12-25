@@ -42,23 +42,23 @@ BA (Hons), Economics, Marmara University, Istanbul - 2014
 
 Young Economist of the Year (2021) - 1st place. Awarded Paper: Checkmate! Losing with Borders, Winning with Centers. The case of European Integration.
 
-🔸 `Invites Speaker`:
+🔸 `Invited Speaker`:
 
 **2025**
 
-Leibniz Institute for East and Southeast European Studies, Regensburg, Seminar Series
+Leibniz Institute for East and Southeast European Studies, Economics Department, Seminar Series
 
-European Research University (ERUNI), Ostrava, Seminar Series
+European Research University (ERUNI), Seminar Series
 
 **2024**
 
-Charles University, Faculty of Law, Economics Department, Seminar Series
+Charles University, Faculty of Law, Seminar Series
 
 **2023**
 
 Agglomeration and Social Networks Research Lab, Seminar Series
 
-Aix-Marseille Universit ́e, Invited Seminar Series
+Aix-Marseille University, Invited Seminar Series
 
 🔸 `Conferences`:
 
