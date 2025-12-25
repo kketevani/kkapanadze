@@ -82,8 +82,6 @@ Large Language Models and Machine Learning for Unstructured Data Seminar, organi
 
 Borders, Politics and Policies: Using Data to Power Border Research, at Borders in Globalization Lab’s (BIG Lab), Jean Monnet Network, European Parliament, Strasbourg 
    
-SYRI Conference at Charles University, Prague
-
 **2023**
 
 EEA-ESEM 2023 Congress, at Barcelona School of Economics
