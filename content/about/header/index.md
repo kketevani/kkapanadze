@@ -46,19 +46,19 @@ Young Economist of the Year (2021) - 1st place. Awarded Paper: Checkmate! Losing
 
 **2025**
 
-Leibniz Institute for East and Southeast European Studies, Economics Department, Seminar Series
+Leibniz Institute for East and Southeast European Studies, Economics Department
 
-European Research University (ERUNI), Seminar Series
+European Research University (ERUNI), Economics Department
 
 **2024**
 
-Charles University, Faculty of Law, Seminar Series
+Charles University, Faculty of Law, Department of Economics and Empirical Legal Studies
 
 **2023**
 
-Agglomeration and Social Networks Research Lab, Seminar Series
+Agglomeration and Social Networks Research Lab
 
-Aix-Marseille University, Invited Seminar Series
+Aix-Marseille University, Economics Department
 
 🔸 `Conferences`:
 
