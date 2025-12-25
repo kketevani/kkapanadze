@@ -15,6 +15,8 @@ headline: |
 
 Research Fellow at European Research University (ERUNI), 2024 - present
 
+Researcher at the Center for Issues of Inequality and Open Society (CONOS), Faculty of Law, Charles University, 2025 - present
+
 Postdoctoral researcher on the project of [EqualStrength](https://equalstrength.eu), 2023 - 2024
 
 Assistant Professor (non-tenure) at Charles University, Faculty of Law, Economics Department, 2023 - 2024
