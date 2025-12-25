@@ -23,8 +23,10 @@ Assistant Professor (non-tenure) at Charles University, Faculty of Law, Economic
 
 CERGE-EI Foundation Teaching Fellow (NY, USA), 2020 - present
 
-Team member of National Institute for Research on the Socioeconomic 
-Impacts of Disease and Systemic Risks (SYRI), 2022 - present
+Researcher at the National Institute for Research on the Socioeconomic 
+Impacts of Disease and Systemic Risks (SYRI), 2022 - 2024
+
+Researcher at the Czech Academy of Sciences, 2020-2023
 
 🔸 `Education`:
 
