@@ -46,6 +46,8 @@ Young Economist of the Year (2021) - 1st place. Awarded Paper: Checkmate! Losing
 
 **2025**
 
+Leibniz Institute for East and Southeast European Studies, Regensburg, Seminar Series
+
 European Research University (ERUNI), Ostrava, Seminar Series
 
 **2024**
