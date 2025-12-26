@@ -1,9 +1,15 @@
 ---
 draft: no
-excerpt: "with Irakli Barbakadze, Jan Fidrmuc, Martin Hulényi"
+excerpt: 
 layout: single
-date: "2020-10-04"
-title: "Russia’s Wartime Economy: Measuring Regional Inequalities from Outer Space"
----
-
-**with Irakli Barbakadze, Jan Fidrmuc, Martin Hulényi**
+date: '2019-10-06'
+links:
+- icon: 
+  icon_pack: fab
+  name: with Irakli Barbakadze, Jan Fidrmuc, Martin Hulényi
+  url: 
+- ⁠icon: 
+  icon_pack: fab
+  name: WP on request
+  url: 
+title: Russia’s Wartime Economy: Measuring Regional Inequalities from Outer Space
