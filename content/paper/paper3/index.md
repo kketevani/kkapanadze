@@ -4,7 +4,7 @@ excerpt:
 layout: single
 date: '2020-10-03'
 links:
-- icon: github
+- icon: 
   icon_pack: fab
   name: WP on Request
   url: "mailto:ketevani.kapanadze@eruni.org"
