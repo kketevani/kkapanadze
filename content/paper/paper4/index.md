@@ -8,6 +8,6 @@ links:
   icon_pack: fab
   name: Nature Scientific Data
   url: https://www.nature.com/articles/s41597-025-06153-8
- title: The Perception of Names in Experimental Studies on Ethnic Origin: A Cross-National Validation in Europe
+ title: The Perception of Names in Experimental Studies on Ethnic Origin. A Cross-National Validation in Europe
 ---
 
