@@ -4,11 +4,11 @@ excerpt:
 layout: single
 date: '2020-10-04'
 links:
-- icon: github
+- icon: 
   icon_pack: fab
   name: Working Paper
   url: https://drive.google.com/file/d/1clfTVJZ4ETX-mJCT7LZaJz2TztiIhL65/view?usp=sharing
-- icon: github
+- icon: 
   icon_pack: fab
   name: SSRN
   url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3996196
