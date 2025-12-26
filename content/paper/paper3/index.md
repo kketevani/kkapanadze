@@ -8,7 +8,7 @@ links:
   icon_pack: 
   name: with Mariola Pytlikova
   url: https://sites.google.com/site/pytlikovaweb/
-  - icon: 
+- icon: 
   icon_pack: fab
   name: WP on Request
   url: "mailto:ketevani.kapanadze@eruni.org"
