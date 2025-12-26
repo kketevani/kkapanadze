@@ -6,12 +6,8 @@ date: '2020-10-05'
 links:
 - icon: 
   icon_pack: fab
-  name: Working Paper
+  name: SSRN
   url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5018991
-- icon: 
-  icon_pack: fab
-  name: Slides
-  url: 
 - ⁠icon: 
   icon_pack: fab
   name: Platform
