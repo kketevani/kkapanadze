@@ -12,5 +12,5 @@ links:
   icon_pack: fab
   name: WP on request
   url: 
-title: Russia’s Wartime Economy: Measuring Regional Inequalities from Outer Space
+title: Russia’s Wartime Economy. Measuring Regional Inequalities from Outer Space
 ---
