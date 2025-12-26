@@ -6,7 +6,7 @@ date: '2020-10-06'
 links:
 - icon: 
   icon_pack: fab
-  name: with EqualStrenght Team
+  name: with EqualStrength Team
   url: https://equalstrength.eu/team/
 - ⁠icon: 
   icon_pack: fab
