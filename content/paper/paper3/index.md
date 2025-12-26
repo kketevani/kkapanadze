@@ -5,13 +5,13 @@ layout: single
 date: '2020-10-03'
 links:
 - icon: 
-  icon_pack: fab
-  name: WP on Request
-  url: "mailto:ketevani.kapanadze@eruni.org"
-- icon: 
   icon_pack: 
   name: with Mariola Pytlikova
   url: https://sites.google.com/site/pytlikovaweb/
+  - icon: 
+  icon_pack: fab
+  name: WP on Request
+  url: "mailto:ketevani.kapanadze@eruni.org"
 title: Europe, we have a problem! The Economic Cost of Border Controls during Pandemic
 ---
 
