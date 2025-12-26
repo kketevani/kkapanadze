@@ -14,7 +14,7 @@ show_action_link: true
 show_social_links: true
 
 description: " 
-I am a Research Fellow at European Research University (ERUNI). I obtained my Ph.D. in Economics and Econometrics from CERGE-EI, where I was a visiting researcher at the MIT Center for Real Estate. I am a member of the CERGE-EI Foundation Teaching Fellows and a researcher at the Center for Issues of Inequality and Open Society (CONOS), Faculty of Law, Charles University.
+I am a Research Fellow at European Research University (ERUNI). I obtained my Ph.D. in Economics and Econometrics from CERGE-EI and was a visiting researcher at the MIT Center for Real Estate. I am a member of the CERGE-EI Foundation Teaching Fellows and a researcher at the Center for Issues of Inequality and Open Society (CONOS), Faculty of Law, Charles University.
 
 <br><br> My research interests lie at the intersection of urban and regional economics, economic geography, and political economy, with a particular focus on Europe and its border regions. I am interested in understanding how spatial frictions and political institutions influence regional and urban inequalities. To address limitations in geospatial economic data, I employ modern techniques to collect unconventional data from open sources and use remotely sensed imagery, including daytime and nighttime satellite data, in my analyses.
 
