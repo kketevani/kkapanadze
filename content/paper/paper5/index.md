@@ -14,7 +14,6 @@ links:
   url: 
 title: Russia’s Wartime Economy. Measuring Regional Inequalities from Outer Space
 ---
-
 This study examines the full-scale invasion of Ukraine in February 2022 as a natural
 experiment to assess the impact of disrupted international market access on regional
 economic inequalities in Russia. Using nighttime lights data as a proxy for economic
