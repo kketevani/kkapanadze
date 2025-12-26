@@ -26,7 +26,7 @@ CERGE-EI Foundation Teaching Fellow (NY, USA), 2020 - present
 Researcher at the National Institute for Research on the Socioeconomic 
 Impacts of Disease and Systemic Risks (SYRI), 2022 - 2024
 
-Researcher at the Czech Academy of Sciences, 2020-2023
+Junior Researcher at the Czech Academy of Sciences, 2020-2023
 
 🔸 `Education`:
 
