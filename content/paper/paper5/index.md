@@ -26,3 +26,14 @@ highlight the uneven economic impact of the war, with some regions adapting whil
 others stagnate. This study contributes to the understanding of how geopolitical shocks
 reshape economic geography, offering insights into the long-term consequences of trade
 disruptions, sanctions, and shifting supply chains on regional development.
+
+<style>
+  .zoom {
+    transition: transform 0.2s; /* Animation */
+  }
+  .zoom:hover {
+    transform: scale(1.5); /* (150% zoom) */
+  }
+</style>
+
+<img src="featured.png" alt="Description of image" style="width:1000px;" class="zoom">
