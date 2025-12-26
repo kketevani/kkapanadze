@@ -2,7 +2,7 @@
 draft: no
 excerpt: 
 layout: single
-date: '2019-10-06'
+date: '2019-15-05'
 links:
 - icon: 
   icon_pack: fab
@@ -13,3 +13,4 @@ links:
   name: WP on request
   url: 
 title: Russia’s Wartime Economy: Measuring Regional Inequalities from Outer Space
+---
