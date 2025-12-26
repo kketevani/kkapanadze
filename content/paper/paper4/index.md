@@ -4,11 +4,11 @@ excerpt:
 layout: single
 date: '2019-10-05'
 links:
-- icon: github
+- icon: 
   icon_pack: fab
   name: with EqualStrenght Team
   url: https://equalstrength.eu/team/
-- ⁠icon: github
+- ⁠icon: 
   icon_pack: fab
   name: Nature Scientific Data
   url: https://www.nature.com/articles/s41597-025-06153-8
