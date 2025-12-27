@@ -7,7 +7,7 @@ headline: |
 
 <!-- this is a subheadline -->
 
-## [Jan Švejnar](https://www.sipa.columbia.edu/faculty-research/faculty-directory/jan-svejnar)
+## [Jan Švejnar](https://www.sipa.columbia.edu/communities-connections/faculty/jan-svejnar)
 
 Professor at Columbia SIPA; Director at the Center on Global Economic Governance, Columbia University
 
