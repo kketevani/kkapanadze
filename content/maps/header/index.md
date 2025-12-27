@@ -1,10 +1,10 @@
-## [Map of places I visited](https://www.google.com/maps/d/u/0/edit?mid=1cSzFZygOrgJL-uw-Aa7BCzCTkXSGr0E&usp=sharing) [🖥️](https://www.google.com/maps/d/u/0/edit?mid=1cSzFZygOrgJL-uw-Aa7BCzCTkXSGr0E&usp=sharing)
+## [Map of Places I Have Visited](https://www.google.com/maps/d/u/0/edit?mid=1cSzFZygOrgJL-uw-Aa7BCzCTkXSGr0E&usp=sharing) [🖥️](https://www.google.com/maps/d/u/0/edit?mid=1cSzFZygOrgJL-uw-Aa7BCzCTkXSGr0E&usp=sharing)
 <img width="1012" alt="Screenshot 2023-08-27 at 3 39 50" src="https://github.com/kketevani/kkapanadze/assets/56413302/623dfb98-f62c-445b-9adb-edbffc5b0a54">
 
 
-`3D maps of places where I lived more than a year`.
+`3D Maps of Places Where I Lived for More Than a Year`.
  
-_FYI: Don't forget to zoom in (after clicking on country names) and wait a while; rendering may take sometime. So be patient! Have a drink of water_ 🙂
+_FYI: Don’t forget to zoom in after clicking on country names and allow a moment for the map to render—it may take some time. So please be patient 🙂 And maybe have a glass of water while you wait._ 🙂
 
 
 ## [Turkiye](https://drive.google.com/file/d/1UwEkX_xBbhT9jh0e52_7-IykFOHD3THP/view?usp=share_link)
