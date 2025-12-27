@@ -124,7 +124,7 @@ enableEmoji = true
   [[menu.header]]
     name = "Research"
     title = "Research"
-    url = "/research/"
+    url = "/paper/"
     weight = 3
     [[menu.header]]
     name = "References"
