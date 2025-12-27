@@ -11,22 +11,14 @@ headline: |
 
 Professor at Columbia SIPA; Director at the Center on Global Economic Governance, Columbia University
 
-e-mail: js4085@sipa.columbia.edu
-
 ## [Mariola Pytlikova](https://sites.google.com/site/pytlikovaweb/)
 
 Assistant Professor, CERGE-EI
-
-e-mail: Mariola.Pytlikova@cerge-ei.cz
-
-
 
 ## [Christian Ochsner](https://sites.google.com/site/chrochsner/)
 
 Assistant Professor, CERGE-EI; Research Associate at SIAW - University of
 St. Gallen
-
-e-mail: christian.ochsner@cerge-ei.cz
 
 
 
