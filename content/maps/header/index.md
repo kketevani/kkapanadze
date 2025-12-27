@@ -4,7 +4,7 @@
 
 `3D Maps of Places Where I Lived for More Than a Year`.
  
-_FYI: Don’t forget to zoom in after clicking on country names and allow a moment for the map to render—it may take some time. So please be patient 🙂 And maybe have a glass of water while you wait._ 🙂
+_FYI: Don’t forget to zoom in after clicking on country names and allow a moment for the map to render—it may take some time. So please be patient. Have a glass of water._ 🙂
 
 
 ## [Turkiye](https://drive.google.com/file/d/1UwEkX_xBbhT9jh0e52_7-IykFOHD3THP/view?usp=share_link)
