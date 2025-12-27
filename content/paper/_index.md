@@ -7,7 +7,7 @@ cascade:
   sidebar:
     show_sidebar_adunit: true
     text_link_label: 
-    text_link_url: /research/
+    text_link_url: /paper/
 description:
 layout: list-grid
 show_author_byline: true
