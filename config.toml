@@ -133,7 +133,7 @@ enableEmoji = true
     weight = 6
      [[menu.header]]
     name = "Maps"
-    title = "Visualisations"
+    title = "Maps"
     url = "/maps/"
     weight = 7
     
