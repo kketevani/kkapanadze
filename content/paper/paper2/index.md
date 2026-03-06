@@ -29,15 +29,3 @@ This paper investigates whether the spatial concentration of economic activity i
 </style>
 
 <img src="featured.png" alt="Description of image" style="width:1000px;" class="zoom">
-
-#### Companies by year of establishment
-#### Český Těšín (Czechia) - Cieszyn (Poland)<style>
-  .zoom {
-    transition: transform 0.2s; /* Animation */
-  }
-  .zoom:hover {
-    transform: scale(1.5); /* (150% zoom) */
-  }
-</style>
-
-<img src="fe1.png" alt="Description of image" style="width:1000px;" class="zoom">
