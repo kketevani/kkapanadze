@@ -6,12 +6,12 @@ date: '2020-10-04'
 links:
 - icon: 
   icon_pack: fab
-  name: SSRN
-  url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3996196
+  name: R&R at Regional Studies
+  url:
 - icon: 
   icon_pack: fab
-  name: R&R at Regional Studies
-  url: 
+  name: SSRN
+  url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3996196  
 - icon: 
   icon_pack: fas
   name: Award-winning paper
