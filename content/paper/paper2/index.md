@@ -6,12 +6,12 @@ date: '2020-10-05'
 links:
 - icon: 
   icon_pack: fab
-  name: SSRN
-  url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5018991
+  name: R&R at Regional Science and Urban Economics
+  url: 
 - icon: 
   icon_pack: fab
-  name: R&R Regional Science and Urban Economics
-  url: 
+  name: SSRN
+  url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5018991
 - ⁠icon: 
   icon_pack: fab
   name: Platform
