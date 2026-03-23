@@ -21,7 +21,7 @@ Postdoctoral researcher on the project of [EqualStrength](https://equalstrength.
 
 Assistant Professor (non-tenure) at Charles University, Faculty of Law, Economics Department, 2023 - 2024
 
-CERGE-EI Foundation Teaching Fellow (NY, USA), 2020 - present
+CERGE-EI Foundation Teaching Fellow (NY, USA), 2020 - 2023
 
 Researcher at the National Institute for Research on the Socioeconomic 
 Impacts of Disease and Systemic Risks (SYRI), 2021 - 2023
