@@ -8,7 +8,7 @@ headline:
 <!-- this is a subheadline -->
 
 
-## [Download CV here](https://drive.google.com/file/d/1L73maE2Iudv2CF4KGJq_gEnw3PwO6a93/view?usp=sharing)
+## [Download CV here]()
 
 
 🔸 `Experience`:
