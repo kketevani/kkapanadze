@@ -6,7 +6,7 @@ date: '2020-10-05'
 links:
 - icon: 
   icon_pack: fab
-  name: R&R at Regional Science and Urban Economics
+  name: Forthcoming at Regional Science and Urban Economics
   url: 
 - icon: 
   icon_pack: fab
