@@ -7,7 +7,7 @@ links:
 - icon: 
   icon_pack: fab
   name: Forthcoming at Regional Science and Urban Economics
-  url: 
+  url: https://doi.org/10.1016/j.regsciurbeco.2026.104225
 - icon: 
   icon_pack: fab
   name: SSRN
