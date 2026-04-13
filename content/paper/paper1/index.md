@@ -11,7 +11,11 @@ links:
 - icon: 
   icon_pack: fab
   name: SSRN
-  url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3996196  
+  url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3996196
+- icon: 
+  icon_pack: fab
+  name: Single-authored
+  url:
 - icon: 
   icon_pack: fas
   name: Award-winning paper
