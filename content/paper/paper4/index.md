@@ -12,6 +12,10 @@ links:
   icon_pack: fab
   name: with EqualStrength Team
   url: https://equalstrength.eu/team/
+- icon: 
+  icon_pack: fab
+  name: Platform
+  url: h  https://equalstrength.github.io/NameSurvey/
 title: The Perception of Names in Experimental Studies on Ethnic Origin. A Cross-National Validation in Europe
 ---
 
