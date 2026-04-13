@@ -126,6 +126,11 @@ enableEmoji = true
     title = "Publications"
     url = "/paper/"
     weight = 3
+     [[menu.header]]
+    name = "Projects"
+    title = "Projects"
+    url = "/project/"
+    weight = 4
     [[menu.header]]
     name = "References"
     title = "References"
