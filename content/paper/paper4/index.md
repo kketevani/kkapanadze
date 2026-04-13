@@ -4,14 +4,14 @@ excerpt:
 layout: single
 date: '2020-10-06'
 links:
-- icon: 
-  icon_pack: fab
-  name: with EqualStrength Team
-  url: https://equalstrength.eu/team/
 - ⁠icon: 
   icon_pack: fab
   name: Nature Scientific Data
   url: https://www.nature.com/articles/s41597-025-06153-8
+- icon: 
+  icon_pack: fab
+  name: with EqualStrength Team
+  url: https://equalstrength.eu/team/
 title: The Perception of Names in Experimental Studies on Ethnic Origin. A Cross-National Validation in Europe
 ---
 
