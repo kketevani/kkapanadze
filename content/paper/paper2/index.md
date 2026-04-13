@@ -10,7 +10,7 @@ links:
   url: https://doi.org/10.1016/j.regsciurbeco.2026.104225
 - icon: 
   icon_pack: fab
-  name: SSRN
+  name: Single-authored
   url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5018991
 - ⁠icon: 
   icon_pack: fab
