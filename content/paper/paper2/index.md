@@ -6,7 +6,7 @@ date: '2020-10-05'
 links:
 - icon: 
   icon_pack: fab
-  name: Forthcoming at Regional Science and Urban Economics
+  name: Regional Science and Urban Economics
   url: https://doi.org/10.1016/j.regsciurbeco.2026.104225
 - icon: 
   icon_pack: fab
