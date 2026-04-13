@@ -10,8 +10,12 @@ links:
   url: https://doi.org/10.1016/j.regsciurbeco.2026.104225
 - icon: 
   icon_pack: fab
-  name: Single-authored
+  name: SSRN
   url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5018991
+- icon: 
+  icon_pack: fab
+  name: Single-authored
+  url: 
 - ⁠icon: 
   icon_pack: fab
   name: Platform
