@@ -4,10 +4,10 @@ excerpt:
 layout: single
 date: '2019-15-05'
 links:
-- icon: 
- icon_pack: fab
- name: with Jan Fidrmuc, Martin Hulényi, Irakli Barbakadze
- url:
+- icon:
+  icon_pack: fab
+  name: with Irakli Barbakadze, Jan Fidrmuc, Martin Hulényi
+  url:
 - ⁠icon: 
   icon_pack: fab
   name: WP on Request
