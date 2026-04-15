@@ -8,10 +8,12 @@
 
     <div class="flex flex-column items-center">
       {{ range .Pages.ByWeight }}
-        <article class="w-100 pa4 flex flex-wrap items-center">
+        <article class="w-100 pa4 flex flex-wrap items-start mb5">
 
-          <div class="w-100 w-60-l pr4-l">
-            <h2 class="f4 lh-title mt0">
+          <!-- TEXT (LEFT) -->
+          <div class="w-100 w-60-l pr4-l tl">
+
+            <h2 class="f3 lh-title mt0 mb3">
               <a href="{{ .RelPermalink }}">{{ .Title }}</a>
             </h2>
 
@@ -34,8 +36,10 @@
                 </div>
               {{ end }}
             {{ end }}
+
           </div>
 
+          <!-- IMAGE (RIGHT) -->
           <div class="w-100 w-40-l tc mt3 mt0-l">
             {{ $featured := .Resources.GetMatch "*featured*" }}
             {{ if and $featured $.Params.show_post_thumbnail }}
@@ -64,7 +68,7 @@
             padding-left: 1.5rem;
           }
           .wip-section li {
-            margin-bottom: 0.4rem;
+            margin-bottom: 0.5rem;
           }
         </style>
 
