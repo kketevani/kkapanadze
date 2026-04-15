@@ -1,0 +1,60 @@
+{{ define "main" }}
+<main class="page-main pa4" role="main">
+  <section class="page-content mw9 center">
+
+    <header class="mb5 tc">
+      <h1 class="f1">{{ .Title }}</h1>
+    </header>
+
+    <div class="flex flex-wrap justify-center">
+      {{ range .Pages.ByWeight }}
+        <article class="w-100 w-50-m w-third-l pa3">
+          {{ $featured := .Resources.GetMatch "*featured*" }}
+          {{ if and $featured $.Params.show_post_thumbnail }}
+            <div class="mb3 tc">
+              <a href="{{ .RelPermalink }}">
+                <img src="{{ $featured.RelPermalink }}"
+                     alt="{{ .Title }}"
+                     style="max-width:100%; height:auto;">
+              </a>
+            </div>
+          {{ end }}
+
+          <h2 class="f4 lh-title mt0">
+            <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+          </h2>
+
+          {{ with .Summary }}
+            <div class="lh-copy f6">
+              {{ . }}
+            </div>
+          {{ end }}
+
+          {{ if $.Params.show_button_links }}
+            {{ with .Params.links }}
+              <div class="mt3">
+                {{ range . }}
+                  <a class="dib ba br2 ph3 pv2 mr2 mb2 no-underline"
+                     href="{{ .url }}"
+                     {{ if strings.HasPrefix .url "http" }}target="_blank" rel="noopener"{{ end }}>
+                    {{ .name }}
+                  </a>
+                {{ end }}
+              </div>
+            {{ end }}
+          {{ end }}
+        </article>
+      {{ end }}
+    </div>
+
+    {{ with .Content }}
+      <section class="mt5 pt4 bt b--black-10">
+        <div class="mw7 center lh-copy">
+          {{ . }}
+        </div>
+      </section>
+    {{ end }}
+
+  </section>
+</main>
+{{ end }}
