@@ -20,8 +20,8 @@ sidebar:
   show_sidebar_adunit: false
   text_link_label: ""
   text_link_url: ""
-  title: Work in Progress
-title: Work in Progress
+  title: Working Papers
+title: Working Papers
 ---
 
 ** No content for the project index. This file provides front matter for the blog including the layout and boolean options. **
