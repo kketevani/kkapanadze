@@ -63,9 +63,10 @@ Agglomeration and Social Networks Research Lab
 Aix-Marseille University, Economics Department
 
 🔸 `Conferences`:
+
 **2026**
 
-ISEG course programme in Cities and Urbanization, Lisbon School of Economics and Managment (forthcoming)
+ISEG course program in Cities and Urbanization, Lisbon School of Economics and Management (forthcoming)
 
 65th ERSA Congress Global Challenges and Regional Responses in a Transition, Sofia (forthcoming)
 
