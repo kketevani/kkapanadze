@@ -95,7 +95,7 @@ enableEmoji = true
      icon_pack = "ai"
      url       = "https://orcid.org/0000-0001-6952-4046"
   [[params.social]]
-     icon      = "scholar" 
+     icon = "ai ai-google-scholar"
      icon_pack = "ai"
      url       = "https://scholar.google.com/citations?user=X91rX8IAAAAJ&hl=en"
   [[params.social]]
