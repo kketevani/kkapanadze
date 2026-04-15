@@ -49,7 +49,22 @@
 
     {{ with .Content }}
       <section class="mt5 pt4 bt b--black-10">
-        <div class="mw7 center lh-copy">
+        <style>
+          .wip-section h2 {
+            font-size: 2rem;
+            margin-bottom: 1rem;
+          }
+          .wip-section ul {
+            font-size: 1.2rem;
+            line-height: 1.6;
+            padding-left: 1.5rem;
+          }
+          .wip-section li {
+            margin-bottom: 0.4rem;
+          }
+        </style>
+
+        <div class="mw7 center lh-copy wip-section">
           {{ . }}
         </div>
       </section>
