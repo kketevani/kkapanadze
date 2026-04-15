@@ -8,7 +8,7 @@ show_post_date: false
 show_author_byline: true
 ---
 
-## Work in Progress
+## Selected Work in Progress
 
 - If at First You Don’t Succeed, Revise, Revise Again: Inequalities of GDP Revision  
   joint with [Jan Fidrmuc](http://www.fidrmuc.net/) (University of Lille)
