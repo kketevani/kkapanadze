@@ -10,6 +10,6 @@ show_author_byline: true
 
 ## Work in Progress
 
-- *f at First You Don’t Succeed, Revise, Revise Again: Inequalities of GDP Revision (Joint with Jan Fidrmuc) *
+- *If at First You Don’t Succeed, Revise, Revise Again: Inequalities of GDP Revision (Joint with Jan Fidrmuc) *
 - *Paper title two*
 - *Paper title three*
