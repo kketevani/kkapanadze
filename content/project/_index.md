@@ -29,6 +29,6 @@ sidebar:
 
 ## Work in Progress
 
-- *If at First You Don’t Succeed, Revise, Revise Again: Inequalities of GDP Revisions with Jan Fidrmuc (University of Lille)*
+- *If at First You Don’t Succeed, Revise, Revise Again: Inequalities of GDP Revisions (with Jan Fidrmuc)*
 - *Paper title two*
 - *Paper title three*
