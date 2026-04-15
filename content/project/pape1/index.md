@@ -6,8 +6,8 @@ date: '2019-15-05'
 links:
 - icon: 
   icon_pack: fab
-  name: with Irakli Barbakadze, Jan Fidrmuc, Martin Hulényi
-  url: 
+  name: 'with [Irakli Barbakadze](LINK1), [Jan Fidrmuc](LINK2), [Martin Hulényi](LINK3)'
+  url: ""
 - ⁠icon: 
   icon_pack: fab
   name: WP on Request
