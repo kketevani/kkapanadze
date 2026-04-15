@@ -1,0 +1,37 @@
+{{ define "main" }}
+<main class="page-main pa4" role="main">
+  <section class="page-content mw8 center">
+
+    <header class="mb4">
+      <h1 class="f1 mb3">{{ .Title }}</h1>
+    </header>
+
+    {{ with .Content }}
+    <div class="mb5 lh-copy">
+      {{ . }}
+    </div>
+    {{ end }}
+
+    <div class="projects-list">
+      {{ range .Pages.ByWeight }}
+        <article class="mb5 pb4 bb b--black-10">
+          {{ with .Params.images }}
+            <div class="mb3">
+              <img src="{{ index . 0 | relURL }}" alt="{{ $.Title }}" style="max-width: 300px; height: auto;">
+            </div>
+          {{ end }}
+
+          <h2 class="f3 mb2">
+            <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+          </h2>
+
+          {{ with .Summary }}
+            <div class="lh-copy">{{ . }}</div>
+          {{ end }}
+        </article>
+      {{ end }}
+    </div>
+
+  </section>
+</main>
+{{ end }}
