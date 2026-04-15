@@ -44,7 +44,7 @@ BA (Hons), Economics, Marmara University, Istanbul - 2014
 
 Young Economist of the Year (2021) - 1st place. Awarded Paper: Checkmate! Losing with Borders, Winning with Centers. The case of European Integration.
 
-🔸 `Invited Speaker`:
+🔸 `Invited Research Seminars`:
 
 **2025**
 
