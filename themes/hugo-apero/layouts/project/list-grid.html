@@ -8,7 +8,7 @@
 
 <div class="flex flex-column items-center">
   {{ range .Pages.ByWeight }}
- <article class="w-100 pa3">
+<article class="w-100 w-50-m w-third-l pa3">
   {{ $featured := .Resources.GetMatch "*featured*" }}
           {{ if and $featured $.Params.show_post_thumbnail }}
             <div class="mb3 tc">
