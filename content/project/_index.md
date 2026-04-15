@@ -7,7 +7,7 @@ cascade:
   sidebar:
     show_sidebar_adunit: true
     text_link_label: 
-    text_link_url: /paper/
+    text_link_url: /project/
 description:
 layout: list-grid
 show_author_byline: true
@@ -20,8 +20,8 @@ sidebar:
   show_sidebar_adunit: false
   text_link_label: ""
   text_link_url: ""
-  title: Publications
-title: Publications
+  title: Work in Progress
+title: Work in Progress
 ---
 
 ** No content for the project index. This file provides front matter for the blog including the layout and boolean options. **
