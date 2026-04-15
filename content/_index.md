@@ -22,7 +22,7 @@ My name is Ketevani Kapanadze. I am a Research Fellow at European Research Unive
 <br><a href='https://x.com/kketevanii' target='_blank'>Twitter</a>
 <br><a href='https://www.linkedin.com/in/ketevani-kapanadze-328663b2/' target='_blank'>LinkedIn</a>
 
-<br><br> :email: ketevani.kapanadze@eruni.org"
+<br><br> "📧: ketevani.kapanadze@eruni.org"
 
 text_align_left: true
 images:
