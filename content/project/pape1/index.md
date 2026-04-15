@@ -10,7 +10,7 @@ links:
   url: 
 - ⁠icon: 
   icon_pack: fab
-  name: WP on request
+  name: WP on Request
   url:
 - ⁠icon: 
   icon_pack: fab
