@@ -30,7 +30,7 @@ Junior Researcher at the Czech Academy of Sciences, 2019-2022
 
 🔸 `Education`:
 
-PhD, Economics and Econometrics, CERGE-EI, Prague - 2023
+PhD, Economics and Econometrics, CERGE-EI, Prague - 2024
 
 Visiting Researcher, Massachusetts Institute of Technology, MIT Center for Real Estate (_host_: Prof. Albert Saiz)- 2020 
 
