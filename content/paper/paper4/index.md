@@ -6,7 +6,7 @@ date: '2020-10-06'
 links:
 - ⁠icon: 
   icon_pack: fab
-  name: Nature Scientific Data
+  name: 💡 Nature Scientific Data
   url: https://www.nature.com/articles/s41597-025-06153-8
 - icon: 
   icon_pack: fab
