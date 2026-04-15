@@ -24,4 +24,10 @@ sidebar:
 title: Working Papers
 ---
 
-** No content for the project index. This file provides front matter for the blog including the layout and boolean options. **
+## Work in Progress
+
+Ongoing projects:
+
+- *Title of paper one*
+- *Title of paper two*
+- *Title of paper three*
