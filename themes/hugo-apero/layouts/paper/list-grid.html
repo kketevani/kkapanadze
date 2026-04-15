@@ -1,0 +1,83 @@
+{{ define "main" }}
+<main class="page-main pa4" role="main">
+  <section class="page-content mw9 center">
+
+    <header class="mb5 tc">
+      <h1 class="f1">{{ .Title }}</h1>
+    </header>
+
+    <div class="flex flex-column items-center">
+      {{ range .Pages.ByWeight }}
+        <article class="w-100 pa4 flex flex-wrap items-start mb5">
+
+          <!-- TEXT (LEFT) -->
+          <div class="w-100 w-60-l pr4-l tl">
+
+            <h2 class="f3 lh-title mt0 mb3">
+              <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+            </h2>
+
+            {{ with .Summary }}
+              <div class="lh-copy f6">
+                {{ . }}
+              </div>
+            {{ end }}
+
+            {{ if $.Params.show_button_links }}
+              {{ with .Params.links }}
+                <div class="mt3">
+                  {{ range . }}
+                    <a class="dib ba br2 ph3 pv2 mr2 mb2 no-underline"
+                       href="{{ .url }}"
+                       {{ if strings.HasPrefix .url "http" }}target="_blank" rel="noopener"{{ end }}>
+                      {{ .name }}
+                    </a>
+                  {{ end }}
+                </div>
+              {{ end }}
+            {{ end }}
+
+          </div>
+
+          <!-- IMAGE (RIGHT) -->
+          <div class="w-100 w-40-l tc mt3 mt0-l">
+            {{ $featured := .Resources.GetMatch "*featured*" }}
+            {{ if and $featured $.Params.show_post_thumbnail }}
+              <a href="{{ .RelPermalink }}">
+                <img src="{{ $featured.RelPermalink }}"
+                     alt="{{ .Title }}"
+                     style="max-width:100%; height:auto;">
+              </a>
+            {{ end }}
+          </div>
+
+        </article>
+      {{ end }}
+    </div>
+
+    {{ with .Content }}
+      <section class="mt5 pt4 bt b--black-10">
+        <style>
+          .wip-section h2 {
+            font-size: 2rem;
+            margin-bottom: 1rem;
+          }
+          .wip-section ul {
+            font-size: 1.2rem;
+            line-height: 1.6;
+            padding-left: 1.5rem;
+          }
+          .wip-section li {
+            margin-bottom: 0.5rem;
+          }
+        </style>
+
+        <div class="mw7 center lh-copy wip-section">
+          {{ . }}
+        </div>
+      </section>
+    {{ end }}
+
+  </section>
+</main>
+{{ end }}
