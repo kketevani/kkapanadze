@@ -1,7 +1,7 @@
 ---
 title: "Working Papers"
 description: ""
-layout: list
+layout: list-grid
 author: ""
 
 cascade:
