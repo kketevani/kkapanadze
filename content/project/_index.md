@@ -11,7 +11,7 @@ show_author_byline: true
 ## Work in Progress
 
 - If at First You Don’t Succeed, Revise, Revise Again: Inequalities of GDP Revision  
-  joint with Jan Fidrmuc (University of Lille)
+  joint with [Jan Fidrmuc](http://www.fidrmuc.net/) (University of Lille)
 - Political Connections and Inequalities: Evidence from a Quasi-natural Experiment  
-  joint with Max Nathan (UCL) and Irakli Barbakadze (UCL)
+  joint with [Max Nathan](https://max-nathan.github.io/) (UCL) and [Irakli Barbakadze](https://sites.google.com/view/iraklibarbakadze/home) (UCL)
 
