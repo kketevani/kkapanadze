@@ -7,7 +7,7 @@ links:
 - icon: 
   icon_pack: fab
   name: 💡 Regional Science and Urban Economics
-  url: https://doi.org/10.1016/j.regsciurbeco.2026.104225
+  url: https://authors.elsevier.com/a/1my15bmIcKIdd
 - icon: 
   icon_pack: fab
   name: SSRN
