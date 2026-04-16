@@ -6,7 +6,7 @@ date: '2020-10-07'
 links:
 - icon: 
   icon_pack: fab
-  name: 💡 Regional Science and Urban Economics
+  name: <span style="color:#e63946;">💡 Regional Science and Urban Economics</span>
   url: https://doi.org/10.1016/j.regsciurbeco.2026.104225
 - icon: 
   icon_pack: fab
