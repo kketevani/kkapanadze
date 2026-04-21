@@ -11,7 +11,7 @@ links:
 - icon: 
   icon_pack: fab
   name: SSRN
-  url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5018991
+  url: https://papers.ssrn.com/sol3/Delivery.cfm/5018991.pdf?abstractid=5018991&mirid=1
 - icon: 
   icon_pack: fab
   name: Single-authored
