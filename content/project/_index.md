@@ -17,7 +17,7 @@ show_author_byline: true
 - Political Connections and Inequalities: Evidence from a Moving Parliament  
   joint with [Max Nathan](https://max-nathan.github.io/) (UCL) and [Irakli Barbakadze](https://sites.google.com/view/iraklibarbakadze/home) (UCL)
 
-- Do Roma Families Face Discrimination in Childcare Access? A Cross-National Field Experiment 
+- Do Roma Families Face Discrimination in Childcare Access? A Cross-National Field Experiment   
   joint with [EqualStrength](https://equalstrength.eu/team/) 
   
 - The Regional Fabric of Ethnic Discrimination in Access to Childcare  
