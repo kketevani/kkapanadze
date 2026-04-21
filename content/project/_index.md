@@ -19,6 +19,6 @@ show_author_byline: true
 
 - Do Roma Families Face Discrimination in Childcare Access? A Cross-National Field Experiment 
   joint with [EqualStrength](https://equalstrength.eu/team/) 
-
- - The Regional Fabric of Ethnic Discrimination in Access to Childcare  
+  
+- The Regional Fabric of Ethnic Discrimination in Access to Childcare  
   joint with [EqualStrength](https://equalstrength.eu/team/) 
