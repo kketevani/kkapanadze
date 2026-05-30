@@ -14,7 +14,7 @@ links:
   url: "mailto:ketevani.kapanadze@eruni.org"
 - icon: 
   icon_pack: fab
-  name: Under Review
+  name: R&R at Journal of Regional Science
   url: 
 title: Europe, We Have a Problem! Local Economic Winners and Losers of Border Closures
 ---
