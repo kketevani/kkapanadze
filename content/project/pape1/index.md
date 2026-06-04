@@ -14,7 +14,7 @@ links:
   url:
 - ⁠icon: 
   icon_pack: fab
-  name: Under Review
+  name: R&R at Journal of Regional Science
   url:   
 title: Russia’s Wartime Economy. Measuring Regional Inequalities from Outer Space
 ---
