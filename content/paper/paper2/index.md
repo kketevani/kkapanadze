@@ -9,7 +9,7 @@ title: "Bringing Together What Belonged Together. The Case of Divided Cities in 
 links:
 - icon:
   icon_pack: fab
-  name: 💡 Regional Science and Urban Economics
+  name: '<span class="journal-badge">💡 Regional Science and Urban Economics</span>'
   url: https://www.sciencedirect.com/science/article/abs/pii/S0166046226000359
 
 - icon:
