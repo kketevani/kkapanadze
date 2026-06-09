@@ -7,18 +7,25 @@ date: "2020-10-07"
 title: "Bringing Together What Belonged Together. The Case of Divided Cities in Europe"
 
 links:
-  - icon_pack: fab
-    name: "💡 Regional Science and Urban Economics"
-    url: "https://www.sciencedirect.com/science/article/abs/pii/S0166046226000359"
-  - icon_pack: fab
-    name: "SSRN"
-    url: "https://papers.ssrn.com/sol3/Delivery.cfm/5018991.pdf?abstractid=5018991&mirid=1"
-  - icon_pack: fab
-    name: "Single-authored"
-    url: ""
-  - icon_pack: fab
-    name: "Platform"
-    url: "https://europe-nightlight.shinyapps.io/cities/"
+- icon:
+  icon_pack: fab
+  name: 💡 Regional Science and Urban Economics
+  url: https://www.sciencedirect.com/science/article/abs/pii/S0166046226000359
+
+- icon:
+  icon_pack: fab
+  name: SSRN
+  url: https://papers.ssrn.com/sol3/Delivery.cfm/5018991.pdf?abstractid=5018991&mirid=1
+
+- icon:
+  icon_pack: fab
+  name: Single-authored
+  url:
+
+- icon:
+  icon_pack: fab
+  name: Platform
+  url: https://europe-nightlight.shinyapps.io/cities/
 ---
 
 This paper investigates whether the spatial concentration of economic activity in Europe has long-standing historical roots by leveraging a unique quasi-natural experiment: the removal of physical border barriers in cities that were historically unified, subsequently divided, and eventually reconnected. Schengen expansion led to a significant re-concentration of economic activity around pre-division city centers, reflected in increases in firm establishments and nighttime lights. This effect is driven by the restoration of cross-border commuter access, with effects declining sharply with distance from the historical center. Re-agglomeration operates through distinct channels linked to historical urban structure. In cities that lost their historical cores, border openings prompted consumer-oriented firms to relocate toward pre-war centers, indicating consumption-based agglomeration.
