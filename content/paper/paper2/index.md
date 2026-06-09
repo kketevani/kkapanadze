@@ -16,7 +16,7 @@ links:
   icon_pack: fab
   name: Platform
   url: https://europe-nightlight.shinyapps.io/cities/?_ga=2.239102019.1547673009.1636385845-75017314.1623683363
-title: Bringing together what belonged together: The case of divided cities in Europe
+title: Bringing together what belonged together. The case of divided cities in Europe
 ---
 
 This paper investigates whether the spatial concentration of economic activity in Europe has long-standing historical roots by leveraging a unique quasi-natural experiment: the removal of physical border barriers in cities that were historically unified, subsequently divided, and eventually reconnected. Schengen expansion led to a significant re-concentration of economic activity around pre-division city centers, reflected in increases in firm establishments and nighttime lights. This effect is driven by the restoration of cross-border commuter access, with effects declining sharply with distance from the historical center. Re-agglomeration operates through distinct channels linked to historical urban structure. In cities that lost their historical cores, border openings prompted consumer-oriented firms to relocate toward pre-war centers, indicating consumption-based agglomeration.
