@@ -7,7 +7,7 @@ links:
 - icon: 
   icon_pack: fab
   name: 💡 Regional Science and Urban Economics
-  url: https://www.sciencedirect.com/science/article/abs/pii/S0166046226000359
+  url: 10.1016/j.regsciurbeco.2026.104225
 - icon: 
   icon_pack: fab
   name: SSRN
