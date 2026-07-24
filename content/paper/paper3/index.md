@@ -2,7 +2,7 @@
 draft: no
 excerpt: 
 layout: single
-date: '2020-10-07'
+date: '2020-10-06'
 links:
 - icon:
   icon_pack: fab
