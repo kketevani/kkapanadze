@@ -33,13 +33,17 @@ This paper examines the uneven regional impacts of European integration across C
     transform: scale(1.5);
   }
 
-  /* R&R at Regional Studies — red box */
-  .red-box {
+  /* Make ONLY the first link box red */
+  .article-links a:first-child,
+  .project-links a:first-child {
     border: 2px solid red !important;
   }
 </style>
 
 <img src="featured.png"
+     alt="Description of image"
+     style="width:1000px;"
+     class="zoom">c="featured.png"
      alt="Description of image"
      style="width:1000px;"
      class="zoom">
