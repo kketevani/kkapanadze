@@ -25,12 +25,26 @@ title: Who Gains from a Borderless Europe? The Uneven Geography of European Inte
 This paper examines the uneven regional impacts of European integration across Central and Eastern Europe (CEE). Using a disaggregated synthetic control approach, I estimate localized treatment effects of market integration following the 2004 EU enlargement and mobility integration following the 2008 Schengen expansion. The results show that integration benefited interior regions more than border regions. Following EU enlargement, border regions lagged behind interior regions by approximately 2.5\%. Schengen improved outcomes in border areas, but the larger gains remained in interior regions. These findings suggest that less developed border regions faced stronger competitive pressures, deepening spatial inequalities within CEE. The findings support more targeted cohesion policy, especially ahead of future EU enlargement.
 
 <style>
+  /* Image zoom */
   .zoom {
-    transition: transform 0.2s; /* Animation */
+    transition: transform 0.2s;
   }
+
   .zoom:hover {
-    transform: scale(1.5); /* (150% zoom) */
+    transform: scale(1.5);
+  }
+
+  /* Red borders around link/button boxes */
+  .btn,
+  .article-links a,
+  .project-links a {
+    border: 1px solid red !important;
   }
 </style>
 
-<img src="featured.png" alt="Description of image" style="width:1000px;" class="zoom">
+<img
+  src="featured.png"
+  alt="Description of image"
+  style="width:1000px;"
+  class="zoom"
+>
