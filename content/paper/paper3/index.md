@@ -14,7 +14,7 @@ links:
   url: https://www.ifo.de/en/cesifo/publications/2026/working-paper/russias-wartime-economy-measuring-regional-inequalities-outer-space
 - icon:
   icon_pack: fab
-  name: with Irakli Barbakadze, Jan Fidrmuc, Martin Hulényi
+  name: with [Irakli Barbakadze](https://sites.google.com/view/iraklibarbakadze/home), [Jan Fidrmuc](http://www.fidrmuc.net/), [Martin Hulényi](https://www.martinhulenyi.eu/)
   url:
 - icon:
   icon_pack: fab
