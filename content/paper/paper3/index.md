@@ -1,8 +1,9 @@
 ---
 draft: no
-excerpt: 
+excerpt:
 layout: single
 date: '2020-10-03'
+
 links:
 - people:
   - name: Irakli Barbakadze
