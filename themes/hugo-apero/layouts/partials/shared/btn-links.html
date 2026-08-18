@@ -1,16 +1,48 @@
 {{ range .Params.links }}
-    {{ $pack := or .icon_pack "fas" }}
-    {{ $pack_prefix := $pack }}
-    {{ if in (slice "fab" "fas" "far" "fal") $pack }}
-      {{ $pack_prefix = "fa" }}
-    {{ end }}
+  {{ $pack := or .icon_pack "fas" }}
+  {{ $pack_prefix := $pack }}
+
+  {{ if in (slice "fab" "fas" "far" "fal") $pack }}
+    {{ $pack_prefix = "fa" }}
+  {{ end }}
+
+  {{ if .people }}
+
+    <span class="btn-links mr2 ba dib">
+      {{ with .icon }}
+        <i class="{{ $pack }} {{ $pack_prefix }}-{{ . }} fa-lg fa-fw mr2"></i>
+      {{ end }}
+
+      {{ range $i, $person := .people }}
+        {{ if $i }}, {{ end }}
+        <a href="{{ $person.url | safeURL }}"
+           target="_blank"
+           rel="noopener">
+          {{ $person.name }}
+        </a>
+      {{ end }}
+    </span>
+
+  {{ else }}
+
     {{ $link := .url }}
     {{ $scheme := (urls.Parse $link).Scheme }}
     {{ $target := "" }}
+
     {{ if not $scheme }}
       {{ $link = .url | relLangURL }}
     {{ else if in (slice "http" "https") $scheme }}
       {{ $target = "target=\"_blank\" rel=\"noopener\"" }}
-    {{ end }}  
-  <a class="btn-links mr2 ba dib" href="{{ $link | safeURL }}" {{ $target | safeHTMLAttr }}>{{ with .icon }}<i class="{{ $pack }} {{ $pack_prefix }}-{{ . }} fa-lg fa-fw mr2"></i>{{ end }}{{ .name }}</a>
+    {{ end }}
+
+    <a class="btn-links mr2 ba dib"
+       href="{{ $link | safeURL }}"
+       {{ $target | safeHTMLAttr }}>
+      {{ with .icon }}
+        <i class="{{ $pack }} {{ $pack_prefix }}-{{ . }} fa-lg fa-fw mr2"></i>
+      {{ end }}
+      {{ .name }}
+    </a>
+
+  {{ end }}
 {{ end }}
