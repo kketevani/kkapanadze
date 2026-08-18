@@ -6,7 +6,7 @@ date: '2020-10-02'
 links:
 - icon: 
   icon_pack: fab
-  name: 💡Forthcoming at Journal of Regional Science
+  name: 💡 Forthcoming at Journal of Regional Science
   url:
 - icon: 
   icon_pack: 
