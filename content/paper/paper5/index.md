@@ -10,11 +10,7 @@ links:
   url: https://sites.google.com/site/pytlikovaweb/
 - icon: 
   icon_pack: fab
-  name: WP on Request
-  url: "mailto:ketevani.kapanadze@eruni.org"
-- icon: 
-  icon_pack: fab
-  name: R&R at Journal of Regional Science
+  name: 💡Forthcoming at Journal of Regional Science
   url: 
 title: Europe, We Have a Problem! Local Economic Winners and Losers of Border Closures
 ---
