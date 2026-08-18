@@ -4,6 +4,22 @@ excerpt:
 layout: single
 date: '2020-10-03'
 links:
+links:
+- icon:
+  icon_pack: fab
+  name: Irakli Barbakadze
+  url: https://sites.google.com/view/iraklibarbakadze/home
+
+- icon:
+  icon_pack: fab
+  name: Jan Fidrmuc
+  url: http://www.fidrmuc.net/
+
+- icon:
+  icon_pack: fab
+  name: Martin Hulényi
+  url: https://www.martinhulenyi.eu/
+
 - icon:
   icon_pack: fab
   name: 💡 Forthcoming at Journal of Regional Science
@@ -20,9 +36,6 @@ links:
   url: https://github.com/martinhulenyi/russian_cities
 
 title: Russia’s Wartime Economy. Measuring Regional Inequalities from Outer Space
----
-
-with <a href="https://sites.google.com/view/iraklibarbakadze/home">Irakli Barbakadze</a>, <a href="http://www.fidrmuc.net/">Jan Fidrmuc</a>, <a href="https://www.martinhulenyi.eu/">Martin Hulényi</a> --- We study Russia's February 2022 full-scale invasion...
 ---
 We study Russia's February 2022 full-scale invasion of Ukraine as a natural experiment to determine how sudden disruptions to international market access reshape sub-national economic inequalities. Using remotely-sensed nighttime lights as a proxy for economic activity, we estimate the economic effects of the war at the national and regional levels. We find that Russia experienced an overall economic slowdown after the start of the full-scale invasion. Regions in Western and North-Western Russia experienced significantly larger economic contractions, while Southern and Southeastern regions exhibit relative improvements in performance. These findings suggest that sanctions, a shift toward non-Western markets, and increased military production,  have driven significant regional changes in Russia’s economy and urban structure.
 
