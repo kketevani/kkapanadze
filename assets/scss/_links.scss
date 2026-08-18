@@ -32,3 +32,13 @@
   outline: 1px dotted currentColor;
 }
 
+
+.btn-links a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.btn-links a:hover {
+  text-decoration: underline;
+}
+
