@@ -6,12 +6,12 @@ date: '2020-10-03'
 links:
 - ⁠icon: 
   icon_pack: fab
-  name: 💡 CESifo WP
-  url: https://www.ifo.de/en/cesifo/publications/2026/working-paper/russias-wartime-economy-measuring-regional-inequalities-outer-space
+  name: 💡 Forthcoming at Journal of Regional Science
+  url:
 - ⁠icon: 
   icon_pack: fab
-  name: 💡 Forthcoming at Journal of Regional Science
-  url:  
+  name: 💡 CESifo WP
+  url: https://www.ifo.de/en/cesifo/publications/2026/working-paper/russias-wartime-economy-measuring-regional-inequalities-outer-space
 - icon:
   icon_pack: fab
   name: with Irakli Barbakadze, Jan Fidrmuc, Martin Hulényi
