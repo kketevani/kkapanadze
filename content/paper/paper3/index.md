@@ -4,21 +4,13 @@ excerpt:
 layout: single
 date: '2020-10-03'
 links:
-links:
-- icon:
-  icon_pack: fab
-  name: Irakli Barbakadze
-  url: https://sites.google.com/view/iraklibarbakadze/home
-
-- icon:
-  icon_pack: fab
-  name: Jan Fidrmuc
-  url: http://www.fidrmuc.net/
-
-- icon:
-  icon_pack: fab
-  name: Martin Hulényi
-  url: https://www.martinhulenyi.eu/
+- people:
+  - name: Irakli Barbakadze
+    url: https://sites.google.com/view/iraklibarbakadze/home
+  - name: Jan Fidrmuc
+    url: http://www.fidrmuc.net/
+  - name: Martin Hulényi
+    url: https://www.martinhulenyi.eu/
 
 - icon:
   icon_pack: fab
