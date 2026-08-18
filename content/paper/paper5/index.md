@@ -5,13 +5,13 @@ layout: single
 date: '2020-10-02'
 links:
 - icon: 
+  icon_pack: fab
+  name: 💡Forthcoming at Journal of Regional Science
+  url:
+- icon: 
   icon_pack: 
   name: with Mariola Pytlikova
   url: https://sites.google.com/site/pytlikovaweb/
-- icon: 
-  icon_pack: fab
-  name: 💡Forthcoming at Journal of Regional Science
-  url: 
 title: Europe, We Have a Problem! Local Economic Winners and Losers of Border Closures
 ---
 
