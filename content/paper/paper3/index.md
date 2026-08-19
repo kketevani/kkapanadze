@@ -17,7 +17,7 @@ links:
 
 - icon:
   icon_pack: fab
-  name: Irakli Barbakadze, Jan Fidrmuc, Martin Hulényi
+  name: with Irakli Barbakadze, Jan Fidrmuc, Martin Hulényi
   url:
 
 - icon:
