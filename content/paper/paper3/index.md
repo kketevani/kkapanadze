@@ -5,14 +5,6 @@ layout: single
 date: '2020-10-03'
 
 links:
-- people:
-  - name: Irakli Barbakadze
-    url: https://sites.google.com/view/iraklibarbakadze/home
-  - name: Jan Fidrmuc
-    url: http://www.fidrmuc.net/
-  - name: Martin Hulényi
-    url: https://www.martinhulenyi.eu/
-
 - icon:
   icon_pack: fab
   name: 💡 Forthcoming at Journal of Regional Science
@@ -22,6 +14,11 @@ links:
   icon_pack: fab
   name: 💡 CESifo WP
   url: https://www.ifo.de/en/cesifo/publications/2026/working-paper/russias-wartime-economy-measuring-regional-inequalities-outer-space
+
+- icon:
+  icon_pack: fab
+  name: Irakli Barbakadze,Jan Fidrmuc, Martin Hulényi
+  url:
 
 - icon:
   icon_pack: fab
