@@ -9,6 +9,10 @@ links:
   name: 💡 Forthcoming in Journal of Regional Science
   url:
 - icon: 
+  icon_pack: fab
+  name: 💡 RFBerlin WP
+  url: https://www.rfberlin.com/network-paper/europe-we-have-a-problem-local-economic-winners-and-losers-of-border-closures/
+- icon: 
   icon_pack: 
   name: with Mariola Pytlikova
   url: https://sites.google.com/site/pytlikovaweb/
