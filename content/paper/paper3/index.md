@@ -17,6 +17,17 @@ links:
 
 - icon:
   icon_pack: fab
+  name: 💡 Econ4UA WP
+  url: https://econ4ua.org/wp-content/uploads/2026/08/Econ4UA-Working-Paper-No40.pdf
+
+
+- icon:
+  icon_pack: fab
+  name: CEPR VoxEU Column
+  url: https://cepr.org/voxeu/columns/when-statistics-lie-using-satellite-data-track-russias-wartime-economy
+
+- icon:
+  icon_pack: fab
   name: with Irakli Barbakadze, Jan Fidrmuc, Martin Hulényi
   url:
 
