@@ -10,7 +10,7 @@ links:
   url:
 - icon: 
   icon_pack: fab
-  name: 💡 RFBerlin WP
+  name: 💡 RFBerlin DP
   url: https://www.rfberlin.com/network-paper/europe-we-have-a-problem-local-economic-winners-and-losers-of-border-closures/
 - icon: 
   icon_pack: 
