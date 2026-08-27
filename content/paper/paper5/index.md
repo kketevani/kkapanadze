@@ -7,7 +7,7 @@ links:
 - icon: 
   icon_pack: fab
   name: 🔗 Forthcoming in Journal of Regional Science
-  url:
+  url: https://onlinelibrary.wiley.com/journal/14679787
 - icon: 
   icon_pack: fab
   name: RFBerlin DP
