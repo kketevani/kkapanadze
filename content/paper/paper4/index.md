@@ -6,7 +6,7 @@ date: '2020-10-02'
 links:
 - ⁠icon: 
   icon_pack: fab
-  name: 💡 Scientific Data 💡
+  name: 🗞️ Scientific Data 🗞️ 
   url: https://www.nature.com/articles/s41597-025-06153-8
 - icon: 
   icon_pack: fab
