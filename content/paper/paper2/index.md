@@ -27,15 +27,6 @@ In cities that retained their historical centers, producer-oriented firms expand
 
 #### Frankfurt Oder (Germany) - Slubice (Poland)
 
-<style>
-.zoom {
-  transition: transform 0.2s;
-}
-
-.zoom:hover {
-  transform: scale(1.5);
-}
-</style>
 
 <img src="featured.png"
      alt="Satellite nighttime lights"
