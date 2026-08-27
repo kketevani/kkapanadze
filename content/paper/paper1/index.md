@@ -28,7 +28,4 @@ This paper examines the uneven regional impacts of European integration across C
 <img src="featured.png"
      alt="Description of image"
      style="width:1000px;"
-     class="zoom">c="featured.png"
-     alt="Description of image"
-     style="width:1000px;"
      class="zoom">
