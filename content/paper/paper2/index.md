@@ -6,7 +6,7 @@ date: '2020-10-04'
 links:
 - icon:
   icon_pack: fab
-  name: "💡 <b>Regional Science and Urban Economics</b>"
+  name: 💡 `Regional Science and Urban Economics`
   url: https://www.sciencedirect.com/science/article/abs/pii/S0166046226000359
 - icon: 
   icon_pack: fab
