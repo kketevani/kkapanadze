@@ -42,13 +42,4 @@ We study Russia's February 2022 full-scale invasion of Ukraine as a natural expe
 
 
 
-<style>
-  .zoom {
-    transition: transform 0.2s; /* Animation */
-  }
-  .zoom:hover {
-    transform: scale(1.5); /* (150% zoom) */
-  }
-</style>
-
 <img src="featured.png" alt="Description of image" style="width:1000px;" class="zoom">
