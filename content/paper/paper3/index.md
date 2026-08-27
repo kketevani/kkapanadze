@@ -7,8 +7,8 @@ date: '2020-10-03'
 links:
 - icon:
   icon_pack: fab
-  name: 💡 Forthcoming in Journal of Regional Science
-  url:
+  name: 💡 Journal of Regional Science
+  url: https://onlinelibrary.wiley.com/doi/10.1111/jors.70084
 
 - icon:
   icon_pack: fab
