@@ -23,13 +23,5 @@ In response to COVID-19, Schengen countries temporarily reintroduced internal bo
 
 
 #### Nighttime Lights Before and After Border Controls
-<style>
-  .zoom {
-    transition: transform 0.2s; /* Animation */
-  }
-  .zoom:hover {
-    transform: scale(1.5); /* (150% zoom) */
-  }
-</style>
 
 <img src="featured.png" alt="Description of image" style="width:1000px;" class="zoom">
