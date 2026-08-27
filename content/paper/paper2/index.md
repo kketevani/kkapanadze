@@ -4,9 +4,9 @@ excerpt:
 layout: single
 date: '2020-10-04'
 links:
-- ⁠icon: 
+- icon:
   icon_pack: fab
-  name: 💡 "**Regional Science and Urban Economics**"
+  name: "<strong>💡 Regional Science and Urban Economics</strong>"
   url: https://www.sciencedirect.com/science/article/abs/pii/S0166046226000359
 - icon: 
   icon_pack: fab
