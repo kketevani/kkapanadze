@@ -7,7 +7,7 @@ date: '2020-10-03'
 links:
 - icon:
   icon_pack: fab
-  name: 💡 Journal of Regional Science
+  name: 🔗 Journal of Regional Science
   url: https://onlinelibrary.wiley.com/doi/10.1111/jors.70084
 
 - icon:
