@@ -9,7 +9,7 @@ headline:
 
 
 ## [Download CV here](https://drive.google.com/file/d/1UiBcgV4QsDsuqCa1ncrFDyyO592Z6_mJ/view?usp=sharing)
-[kk]{https://drive.google.com/file/d/17aoAdSscqQjVa9bG8KT-x17u_kGUavW3/view?usp=sharing}
+[kk](https://drive.google.com/file/d/17aoAdSscqQjVa9bG8KT-x17u_kGUavW3/view?usp=sharing)
 
 🔸 `Experience`:
 
