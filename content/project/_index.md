@@ -18,13 +18,15 @@ show_author_byline: true
   joint with [Max Nathan](https://max-nathan.github.io/) (UCL) and [Irakli Barbakadze](https://sites.google.com/view/iraklibarbakadze/home) (UCL)
 
 - The Regional Fabric of Ethnic Discrimination in Access to Childcare
-  joint with [EqualStrength](https://equalstrength.eu/team/)
-  _R&R at Journal of Ethnic and Migration Studies_
 
-    
+   joint with [EqualStrength](https://equalstrength.eu/team/)
+
+  _R&R at Journal of Ethnic and Migration Studies_
 
 - Do Roma Families Face Discrimination in Childcare Access? A Cross-National Field Experiment
   
   joint with [EqualStrength](https://equalstrength.eu/team/) 
+
+   _R&R at Journal of Ethnic and Migration Studies_
 
   
