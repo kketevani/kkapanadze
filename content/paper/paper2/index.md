@@ -10,7 +10,7 @@ links:
   url: https://www.sciencedirect.com/science/article/abs/pii/S0166046226000359
 - icon:
   icon_pack: fab
-  name: SSRN  
+  name: SSRN (Free Access)  
   url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5018991
 - icon: 
   icon_pack: fab
