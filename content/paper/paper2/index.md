@@ -8,6 +8,10 @@ links:
   icon_pack: fab
   name: 🔗 Regional Science and Urban Economics 
   url: https://www.sciencedirect.com/science/article/abs/pii/S0166046226000359
+- icon:
+  icon_pack: fab
+  name: SSRN  
+  url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5018991
 - icon: 
   icon_pack: fab
   name: Single-authored
