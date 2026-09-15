@@ -13,6 +13,10 @@ links:
   name: RFBerlin DP
   url: https://www.rfberlin.com/network-paper/europe-we-have-a-problem-local-economic-winners-and-losers-of-border-closures/
 - icon: 
+  icon_pack: fab
+  name: IZA DP
+  url:  https://www.iza.org/publications/dp/18878/europe-we-have-a-problem-local-economic-winners-and-losers-of-border-closures
+- icon: 
   icon_pack: 
   name: with Mariola Pytlikova
   url: https://sites.google.com/site/pytlikovaweb/
