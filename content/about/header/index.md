@@ -10,7 +10,6 @@ headline:
 
 ## [Download CV here](https://drive.google.com/file/d/1UiBcgV4QsDsuqCa1ncrFDyyO592Z6_mJ/view?usp=sharing)
 
-[pres](https://drive.google.com/file/d/1v7ZVEvXOtubyq72fwR__MYzaCIqIHijc/view?usp=sharing)
 🔸 `Experience`:
 
 Research Fellow at European Research University (ERUNI), 2024 - present
