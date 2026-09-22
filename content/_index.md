@@ -20,7 +20,7 @@ My name is Ketevani Kapanadze. I am a Research Fellow at European Research Unive
 
 <br><br> Download CV. 
 <br><br> Contact 📧: ketevani.kapanadze@eruni.org
-<br><br> Connect with me on: <br><a href='https://x.com/kketevanii' target='_blank'>Twitter</a> and <br><a href='https://www.linkedin.com/in/ketevani-kapanadze-328663b2/' target='_blank'>LinkedIn</a>
+<br><br> Connect with me on: <a href='https://x.com/kketevanii' target='_blank'>Twitter</a> and <a href='https://www.linkedin.com/in/ketevani-kapanadze-328663b2/' target='_blank'>LinkedIn</a>
 
 text_align_left: true
 images:
