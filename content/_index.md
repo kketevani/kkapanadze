@@ -18,7 +18,6 @@ description: |
 
   My research interests lie at the intersection of urban and regional economics, economic geography, and political economy, with a particular focus on Europe and its border regions. I am interested in understanding how spatial frictions and political institutions influence regional and urban inequalities. To address limitations in geospatial economic data, I employ modern techniques to collect unconventional data from open sources and use remotely sensed imagery, including daytime and nighttime satellite data, in my analyses.
 
-  <br>
 
   <strong><a href="https://drive.google.com/file/d/1UiBcgV4QsDsuqCa1ncrFDyyO592Z6_mJ/view?usp=sharing" target="_blank">Download my CV</a></strong>.
 
