@@ -20,9 +20,9 @@ description: |
 
   <br><br>
   <strong>Download</strong> CV.
-  <br>
+
   <strong>Contact</strong> 📧: <a href="mailto:ketevani.kapanadze@eruni.org">ketevani.kapanadze@eruni.org</a>
-  <br>
+
   <strong>Connect</strong> with me on: <a href="https://x.com/kketevanii" target="_blank">Twitter</a> and <a href="https://www.linkedin.com/in/ketevani-kapanadze-328663b2/" target="_blank">LinkedIn</a>
   </div>
   
