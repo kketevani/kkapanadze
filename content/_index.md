@@ -19,7 +19,6 @@ My name is Ketevani Kapanadze. I am a Research Fellow at European Research Unive
 <br><br> My research interests lie at the intersection of urban and regional economics, economic geography, and political economy, with a particular focus on Europe and its border regions. I am interested in understanding how spatial frictions and political institutions influence regional and urban inequalities. To address limitations in geospatial economic data, I employ modern techniques to collect unconventional data from open sources and use remotely sensed imagery, including daytime and nighttime satellite data, in my analyses.
 
 **Download** CV. 
-
 **Contact** 📧: ketevani.kapanadze@eruni.org
 
 **Connect** with me on: <a href='https://x.com/kketevanii' target='_blank'>Twitter</a> and <a href='https://www.linkedin.com/in/ketevani-kapanadze-328663b2/' target='_blank'>LinkedIn</a>
