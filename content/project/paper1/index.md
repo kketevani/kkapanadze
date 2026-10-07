@@ -6,7 +6,7 @@ date: '2020-10-01'
 links:
 - icon: 
   icon_pack: fab
-  name: R&R at Regional Studies
+  name: R&R (Round II) at Regional Studies
   url:
 - icon: 
   icon_pack: fab
