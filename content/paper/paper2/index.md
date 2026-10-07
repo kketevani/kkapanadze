@@ -18,7 +18,7 @@ links:
   url:
 - icon: 
   icon_pack: fab
-  name: My JMP
+  name: my JMP
   url: 
 - icon: 
   icon_pack: fab
