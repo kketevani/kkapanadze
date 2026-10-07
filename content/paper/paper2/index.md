@@ -14,7 +14,11 @@ links:
   url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5018991
 - icon: 
   icon_pack: fab
-  name: Single-authored
+  name: Single-authored 
+  url:
+- icon: 
+  icon_pack: fab
+  name: My JMP
   url: 
 - icon: 
   icon_pack: fab
